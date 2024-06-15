@@ -1,0 +1,65 @@
+[
+    {
+        "task": "Create autologin and template for isw",
+        "created": "2024-06-15T16:53:18.730316",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Fix infiniteball bug ",
+        "created": "2024-06-15T16:54:27.736208",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Integrate leaderboard to infiniteball ",
+        "created": "2024-06-15T16:54:37.583741",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "figure out how to get template/firebase to work for all game types",
+        "created": "2024-06-15T16:55:21.742875",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Ask friends for more game ideas",
+        "created": "2024-06-15T16:55:46.613645",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Wanderby EVE event and do some VJing and LAN stuff",
+        "created": "2024-06-15T16:56:11.188154",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Link idl and ipm esp. repo logic",
+        "created": "2024-06-15T16:56:46.812912",
+        "completed": null,
+        "benched": "2024-06-15T16:57:05.902657",
+        "unbenched": null
+    },
+    {
+        "task": "allow collab mode for idl for shared tasks or other people's tasks",
+        "created": "2024-06-15T16:57:03.620321",
+        "completed": null,
+        "benched": "2024-06-15T16:57:09.154671",
+        "unbenched": null
+    },
+    {
+        "task": "universal leaderboard across all games",
+        "created": "2024-06-15T16:58:03.433822",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    }
+]

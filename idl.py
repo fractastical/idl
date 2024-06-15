@@ -3,7 +3,7 @@ import datetime
 import os
 
 # Path to the JSON file
-TODO_FILE = 'todo_list.json'
+TODO_FILE = 'ipm_todo_list.json'
 
 def load_todos():
     if os.path.exists(TODO_FILE):
