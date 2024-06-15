@@ -22,13 +22,63 @@
     {
         "task": "Teest benching",
         "created": "2024-06-15T16:30:47.532094",
-        "completed": null,
-        "benched": "2024-06-15T16:30:56.914014"
+        "completed": "2024-06-15T16:37:00.734301",
+        "benched": null,
+        "unbenched": "2024-06-15T16:36:53.213301"
     },
     {
         "task": "A whole new item just to test",
         "created": "2024-06-15T16:31:23.803241",
         "completed": "2024-06-15T16:31:25.797527",
         "benched": null
+    },
+    {
+        "task": "test benching and unbenching",
+        "created": "2024-06-15T16:36:32.615746",
+        "completed": "2024-06-15T16:37:02.551020",
+        "benched": null,
+        "unbenched": "2024-06-15T16:36:56.464026"
+    },
+    {
+        "task": "retest benching timestamping",
+        "created": "2024-06-15T16:40:21.425298",
+        "completed": "2024-06-15T16:40:59.483316",
+        "benched": "2024-06-15T16:40:24.814016",
+        "unbenched": "2024-06-15T16:40:37.479485"
+    },
+    {
+        "task": "should appear as 1",
+        "created": "2024-06-15T16:41:07.539095",
+        "completed": "2024-06-15T16:43:12.005254",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "more benching testing",
+        "created": "2024-06-15T16:43:15.863943",
+        "completed": null,
+        "benched": "2024-06-15T16:43:19.011681",
+        "unbenched": "2024-06-15T16:43:28.545720"
+    },
+    {
+        "task": "fix benching unbenching completion bug",
+        "created": "2024-06-15T16:44:07.944561",
+        "completed": "2024-06-15T16:45:02.907878",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "another test item",
+        "created": "2024-06-15T16:47:09.029498",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "and another",
+        "created": "2024-06-15T16:47:10.454264",
+        "completed": "2024-06-15T16:47:12.104021",
+        "benched": null,
+        "unbenched": null
     }
 ]
