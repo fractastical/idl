@@ -12,12 +12,12 @@
     {
         "task": "Show IDL to friends",
         "created": "2024-06-15T16:26:02.047450",
-        "completed": null
+        "completed": "2024-06-15T16:49:26.045450"
     },
     {
         "task": "Test IPM ratings",
         "created": "2024-06-15T16:26:17.642660",
-        "completed": null
+        "completed": "2024-06-15T16:48:54.420067"
     },
     {
         "task": "Teest benching",
@@ -56,7 +56,7 @@
     {
         "task": "more benching testing",
         "created": "2024-06-15T16:43:15.863943",
-        "completed": null,
+        "completed": "2024-06-15T16:51:33.795632",
         "benched": "2024-06-15T16:43:19.011681",
         "unbenched": "2024-06-15T16:43:28.545720"
     },
@@ -70,7 +70,7 @@
     {
         "task": "another test item",
         "created": "2024-06-15T16:47:09.029498",
-        "completed": null,
+        "completed": "2024-06-15T16:48:50.171344",
         "benched": null,
         "unbenched": null
     },
@@ -78,6 +78,69 @@
         "task": "and another",
         "created": "2024-06-15T16:47:10.454264",
         "completed": "2024-06-15T16:47:12.104021",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "\u001b[A\u001b[Aq",
+        "created": "2024-06-15T16:48:38.726012",
+        "completed": "2024-06-15T16:51:32.568801",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "new 1",
+        "created": "2024-06-15T16:49:17.827672",
+        "completed": "2024-06-15T16:49:35.223644",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "new 2",
+        "created": "2024-06-15T16:49:20.287774",
+        "completed": "2024-06-15T16:51:30.680642",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "new 3",
+        "created": "2024-06-15T16:49:21.812701",
+        "completed": "2024-06-15T16:51:35.200908",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "new 4",
+        "created": "2024-06-15T16:49:24.479037",
+        "completed": "2024-06-15T16:49:45.627582",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "test 1",
+        "created": "2024-06-15T16:51:39.065473",
+        "completed": "2024-06-15T16:51:53.703136",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "test 2",
+        "created": "2024-06-15T16:51:40.729259",
+        "completed": "2024-06-15T16:51:47.699724",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "test 3",
+        "created": "2024-06-15T16:51:42.496861",
+        "completed": "2024-06-15T16:51:58.203578",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "test 4",
+        "created": "2024-06-15T16:51:45.904318",
+        "completed": "2024-06-15T16:51:56.849056",
         "benched": null,
         "unbenched": null
     }

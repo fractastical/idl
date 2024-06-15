@@ -18,19 +18,24 @@ def save_todos(todos):
 def display_todos(todos, show_benched=False):
     print("\nTo-Do List:" if not show_benched else "\nBenched Items:")
     count = 1
+    displayed_todos = []
     for idx, todo in enumerate(todos):
         if show_benched:
             if todo.get('benched') and not todo.get('completed'):
                 print(f"{count}. {todo['task']} (Created: {todo['created']}, Benched: {todo['benched']})")
+                displayed_todos.append(idx)
                 count += 1
         else:
             if not todo.get('completed') and not todo.get('benched'):
                 print(f"{count}. {todo['task']} (Created: {todo['created']})")
+                displayed_todos.append(idx)
                 count += 1
             elif not todo.get('completed') and todo.get('unbenched'):
                 print(f"{count}. {todo['task']} (Created: {todo['created']}, Benched: {todo['benched']}, Unbenched: {todo['unbenched']})")
+                displayed_todos.append(idx)
                 count += 1
     print()
+    return displayed_todos
 
 def add_todo(task):
     todos = load_todos()
@@ -44,34 +49,32 @@ def add_todo(task):
     todos.append(new_todo)  # Append at the end
     save_todos(todos)
 
-def mark_todo_complete(index, show_benched=False):
+def mark_todo_complete(index, displayed_todos):
     todos = load_todos()
-    filtered_todos = [todo for todo in todos if (todo.get('benched') if show_benched else not todo.get('benched')) and not todo.get('completed')]
-    if 0 <= index < len(filtered_todos):
-        todo_index = todos.index(filtered_todos[index])
+    if 0 <= index < len(displayed_todos):
+        todo_index = displayed_todos[index]
         todos[todo_index]['completed'] = datetime.datetime.now().isoformat()
         save_todos(todos)
         print(f"Marked item {index + 1} as complete.")
     else:
         print("Invalid index.")
 
-def bench_todo_item(index):
+def bench_todo_item(index, displayed_todos):
     todos = load_todos()
-    active_todos = [todo for todo in todos if not todo.get('completed') and not todo.get('benched')]
-    if 0 <= index < len(active_todos):
-        todo_index = todos.index(active_todos[index])
+    if 0 <= index < len(displayed_todos):
+        todo_index = displayed_todos[index]
         todos[todo_index]['benched'] = datetime.datetime.now().isoformat()
         save_todos(todos)
         print(f"Benched item {index + 1}.")
     else:
         print("Invalid index.")
 
-def unbench_todo_item(index):
+def unbench_todo_item(index, displayed_todos):
     todos = load_todos()
-    benched_todos = [todo for todo in todos if todo.get('benched') and not todo.get('completed')]
-    if 0 <= index < len(benched_todos):
-        todo_index = todos.index(benched_todos[index])
+    if 0 <= index < len(displayed_todos):
+        todo_index = displayed_todos[index]
         todos[todo_index]['unbenched'] = datetime.datetime.now().isoformat()
+        todos[todo_index]['benched'] = None
         save_todos(todos)
         print(f"Unbenched item {index + 1}.")
     else:
@@ -81,7 +84,7 @@ def main():
     show_benched = False
     while True:
         todos = load_todos()
-        display_todos(todos, show_benched)
+        displayed_todos = display_todos(todos, show_benched)
         if show_benched:
             user_input = input("Benched view - Enter the number of an item to unbench it, or 'v' to view main list (or 'q' to quit): ")
         else:
@@ -93,16 +96,16 @@ def main():
             show_benched = not show_benched
         elif user_input.isdigit():
             index = int(user_input) - 1
-            mark_todo_complete(index, show_benched)
+            mark_todo_complete(index, displayed_todos)
         elif user_input.lower().startswith('b'):
             try:
                 index = int(user_input[1:]) - 1
-                bench_todo_item(index)
+                bench_todo_item(index, displayed_todos)
             except ValueError:
                 print("Invalid input for benching an item.")
         else:
             add_todo(user_input)
-            display_todos(load_todos(), show_benched)  # Display the updated list after adding a new item
+            displayed_todos = display_todos(load_todos(), show_benched)  # Display the updated list after adding a new item
 
 if __name__ == "__main__":
     main()
