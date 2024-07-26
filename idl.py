@@ -242,7 +242,7 @@ def main():
                 if show_benched:
                     user_input = input("Benched view - Enter the number of an item to unbench it, or 'v' to view main list (or 'q' to quit): ")
                 else:
-                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' followed by the number and subcategory to move an item (e.g., 'move 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
+                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' or 'm' followed by the number and subcategory to move an item (e.g., 'move 3 ia' or 'm 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
 
         if user_input.lower() == 'q':
             break
@@ -275,9 +275,12 @@ def main():
                 bench_todo_item(index, displayed_todos, current_subcategory)
             except ValueError:
                 print("Invalid input for benching an item.")
-        elif user_input.lower().startswith('move') and not in_ideas:
+        elif user_input.lower().startswith('move') or user_input.lower().startswith('m') and not in_ideas:
             try:
-                _, index_str, to_subcategory = user_input.split(' ', 2)
+                if user_input.lower().startswith('move'):
+                    _, index_str, to_subcategory = user_input.split(' ', 2)
+                else:
+                    _, index_str, to_subcategory = user_input.split(' ', 2)
                 index = int(index_str) - 1
                 move_todo_to_subcategory(index, displayed_todos, current_subcategory, to_subcategory)
             except ValueError:
