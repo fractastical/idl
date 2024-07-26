@@ -48,18 +48,6 @@
         "created": "2024-06-19T19:33:11.001442"
     },
     {
-        "task": "reach out to bitblaster guy",
-        "created": "2024-06-19T19:41:20.458398"
-    },
-    {
-        "task": "rrename astroids",
-        "created": "2024-06-19T19:41:28.860598"
-    },
-    {
-        "task": "new swarm enemy type ",
-        "created": "2024-06-20T14:02:59.641408"
-    },
-    {
         "task": "buy menu every 10 waves ",
         "created": "2024-06-20T14:46:32.346050"
     },
@@ -82,5 +70,49 @@
     {
         "task": "shelf idea (i.e. abandon it)",
         "created": "2024-06-23T14:06:54.026603"
+    },
+    {
+        "task": "upgrades",
+        "created": "2024-06-24T20:57:37.742676"
+    },
+    {
+        "task": "find more OGs of gaming",
+        "created": "2024-06-26T15:38:23.640042"
+    },
+    {
+        "task": "combo ewapons",
+        "created": "2024-07-09T16:15:39.720820"
+    },
+    {
+        "task": "explosing asteroid",
+        "created": "2024-07-13T15:19:48.938386"
+    },
+    {
+        "task": "freeze asteroid",
+        "created": "2024-07-13T15:19:52.094477"
+    },
+    {
+        "task": "ylightning asteroid",
+        "created": "2024-07-13T15:20:00.748098"
+    },
+    {
+        "task": "acid asteroid",
+        "created": "2024-07-13T15:20:06.713548"
+    },
+    {
+        "task": "change asteroid logic to include aliens",
+        "created": "2024-07-13T15:29:28.698598"
+    },
+    {
+        "task": "reduce xp update frequency",
+        "created": "2024-07-26T11:34:25.864604"
+    },
+    {
+        "task": "change music slightly with each 30 second lop",
+        "created": "2024-07-26T11:35:14.023363"
+    },
+    {
+        "task": "mega octopus monstesr",
+        "created": "2024-07-26T11:35:30.241087"
     }
 ]
