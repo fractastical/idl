@@ -24,12 +24,25 @@ def migrate_todo_data():
         save_todos({"subcategories": {"default": []}})
         print("Initialized new to-do list structure.")
 
+def initialize_task_fields(todos):
+    for subcategory in todos["subcategories"]:
+        for task in todos["subcategories"][subcategory]:
+            if "in_progress" not in task:
+                task["in_progress"] = False
+            if "start_time" not in task:
+                task["start_time"] = None
+            if "time_spent" not in task:
+                task["time_spent"] = 0
+    return todos
+
 def load_todos():
     migrate_todo_data()  # Ensure data is migrated before loading
     if os.path.exists(TODO_FILE):
         with open(TODO_FILE, 'r') as file:
-            return json.load(file)
-    return {"subcategories": {"default": []}}
+            todos = json.load(file)
+        todos = initialize_task_fields(todos)
+        return todos
+    return initialize_task_fields({"subcategories": {"default": []}})
 
 def load_ideas():
     if os.path.exists(IDEAS_FILE):
@@ -121,11 +134,11 @@ def mark_todo_complete(index, displayed_todos, subcategory):
     if 0 <= index < len(displayed_todos):
         todo_index = displayed_todos[index]
         todos["subcategories"][subcategory][todo_index]['completed'] = datetime.datetime.now().isoformat()
-        # Stop tracking time if in progress
         if todos["subcategories"][subcategory][todo_index]['in_progress']:
             todos["subcategories"][subcategory][todo_index]['in_progress'] = False
             time_spent = (datetime.datetime.now() - datetime.datetime.fromisoformat(todos["subcategories"][subcategory][todo_index]['start_time'])).total_seconds()
             todos["subcategories"][subcategory][todo_index]['time_spent'] += time_spent
+            todos["subcategories"][subcategory][todo_index]['start_time'] = None
         save_todos(todos)
         print(f"Marked item {index + 1} as complete.")
     else:
@@ -271,7 +284,7 @@ def main():
                 print("Invalid input for moving an item.")
         elif user_input.lower().startswith('start') and not in_ideas:
             try:
-                index = int(user_input[5:]) - 1
+                index = int(user_input[6:]) - 1
                 start_todo_in_progress(index, displayed_todos, current_subcategory)
             except ValueError:
                 print("Invalid input for starting an item in progress.")
