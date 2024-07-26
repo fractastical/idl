@@ -1,0 +1,716 @@
+[
+    {
+        "task": "Create autologin and template for isw",
+        "created": "2024-06-15T16:53:18.730316",
+        "completed": "2024-06-16T11:49:46.647295",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Fix infiniteball bug ",
+        "created": "2024-06-15T16:54:27.736208",
+        "completed": "2024-06-17T14:49:25.242117",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Integrate leaderboard to infiniteball ",
+        "created": "2024-06-15T16:54:37.583741",
+        "completed": "2024-06-17T14:49:21.211123",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "figure out how to get template/firebase to work for all game types",
+        "created": "2024-06-15T16:55:21.742875",
+        "completed": "2024-06-15T20:51:20.506437",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Ask friends for more game ideas",
+        "created": "2024-06-15T16:55:46.613645",
+        "completed": "2024-06-17T11:32:44.961905",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Wanderby EVE event and do some VJing and LAN stuff",
+        "created": "2024-06-15T16:56:11.188154",
+        "completed": "2024-06-15T19:04:50.108924",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "Link idl and ipm esp. repo logic",
+        "created": "2024-06-15T16:56:46.812912",
+        "completed": null,
+        "benched": "2024-06-15T16:57:05.902657",
+        "unbenched": null
+    },
+    {
+        "task": "allow collab mode for idl for shared tasks or other people's tasks",
+        "created": "2024-06-15T16:57:03.620321",
+        "completed": null,
+        "benched": "2024-06-15T16:57:09.154671",
+        "unbenched": null
+    },
+    {
+        "task": "universal leaderboard across all games",
+        "created": "2024-06-15T16:58:03.433822",
+        "completed": "2024-06-18T12:57:33.527995",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "deus ex game",
+        "created": "2024-06-15T19:04:58.651928",
+        "completed": "2024-06-15T20:50:38.030544",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "add score to leaderboard for deus x",
+        "created": "2024-06-15T20:50:46.807445",
+        "completed": "2024-06-15T22:42:57.876685",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix bug for isw",
+        "created": "2024-06-15T20:51:00.919506",
+        "completed": "2024-06-15T20:51:02.330668",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix infinitelplay domain",
+        "created": "2024-06-15T22:43:14.787552",
+        "completed": "2024-06-16T02:45:09.088593",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "pause isw info screen",
+        "created": "2024-06-16T10:57:26.431047",
+        "completed": "2024-06-18T12:57:28.962596",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "isw counters disappear (lives)",
+        "created": "2024-06-16T10:57:41.503082",
+        "completed": "2024-06-16T15:56:45.259621",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "isw US elements sit on top of xp bar",
+        "created": "2024-06-16T10:58:01.631450",
+        "completed": "2024-06-16T11:35:12.874996",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "add ideas to idl",
+        "created": "2024-06-16T12:35:53.313740",
+        "completed": "2024-06-16T15:56:33.853150",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "read sasha book recommendations",
+        "created": "2024-06-16T12:36:03.481497",
+        "completed": "2024-06-16T15:56:39.785772",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "track time away from phone and internet",
+        "created": "2024-06-16T12:38:20.537494",
+        "completed": "2024-06-17T11:32:39.062106",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "finish setting up home office",
+        "created": "2024-06-16T12:39:30.695214",
+        "completed": "2024-06-17T14:49:36.496217",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fill out digid form",
+        "created": "2024-06-16T12:44:42.499579",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "write E",
+        "created": "2024-06-16T12:47:21.188260",
+        "completed": "2024-06-16T15:56:59.440064",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "write MvC",
+        "created": "2024-06-16T12:58:54.956293",
+        "completed": "2024-06-16T17:03:48.149442",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "revisit athletic goals / system",
+        "created": "2024-06-16T13:01:26.504343",
+        "completed": null,
+        "benched": "2024-06-17T15:29:24.477987",
+        "unbenched": null
+    },
+    {
+        "task": "clean laptop screen",
+        "created": "2024-06-16T15:53:22.741225",
+        "completed": "2024-06-16T17:03:43.730855",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "clean up mugwort",
+        "created": "2024-06-16T17:03:53.266000",
+        "completed": null,
+        "benched": "2024-06-18T12:57:23.890948",
+        "unbenched": null
+    },
+    {
+        "task": "go to calesthenics gym",
+        "created": "2024-06-16T17:04:04.486833",
+        "completed": "2024-06-17T14:26:09.538804",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "find a good game to play",
+        "created": "2024-06-16T17:05:03.233087",
+        "completed": "2024-06-17T11:32:31.771264",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "take out rest of trash",
+        "created": "2024-06-16T17:05:08.839185",
+        "completed": "2024-06-17T11:32:29.837971",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fit workout bench ",
+        "created": "2024-06-16T17:05:12.834166",
+        "completed": null,
+        "benched": "2024-06-17T15:29:56.944321",
+        "unbenched": null
+    },
+    {
+        "task": "log phone (social) time",
+        "created": "2024-06-16T17:07:14.794754",
+        "completed": "2024-06-17T11:32:23.901022",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix list of nwew bugs from ropedrink",
+        "created": "2024-06-17T11:27:03.782832",
+        "completed": "2024-06-18T12:57:19.114794",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "setup the github hooks",
+        "created": "2024-06-17T11:32:17.327381",
+        "completed": "2024-06-18T03:11:13.035500",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "make list of 'heroes' ",
+        "created": "2024-06-17T11:35:32.355109",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "write cryptocurrency opnionon",
+        "created": "2024-06-17T11:37:45.586321",
+        "completed": null,
+        "benched": "2024-06-17T15:29:38.473187",
+        "unbenched": null
+    },
+    {
+        "task": "get another 10 people to test games tomorrow",
+        "created": "2024-06-17T11:42:30.083196",
+        "completed": null,
+        "benched": "2024-06-18T12:57:50.366212",
+        "unbenched": null
+    },
+    {
+        "task": "get more stuff from wouter",
+        "created": "2024-06-17T11:43:52.475201",
+        "completed": "2024-06-18T14:51:58.775706",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "separate life and coding todo lists",
+        "created": "2024-06-17T11:44:03.138703",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "make longer outline for games book",
+        "created": "2024-06-17T12:08:10.812635",
+        "completed": null,
+        "benched": "2024-06-18T13:01:31.074999",
+        "unbenched": null
+    },
+    {
+        "task": "need universal logout button",
+        "created": "2024-06-17T14:26:06.567517",
+        "completed": "2024-06-18T03:11:01.459233",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "test github hook for ib",
+        "created": "2024-06-17T15:09:45.292106",
+        "completed": "2024-06-17T15:30:11.327336",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix import module bug on isw",
+        "created": "2024-06-17T15:10:01.071558",
+        "completed": "2024-06-18T03:10:58.685828",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix version number issue in ipm",
+        "created": "2024-06-17T15:25:32.504900",
+        "completed": null,
+        "benched": "2024-06-18T12:57:44.293843",
+        "unbenched": null
+    },
+    {
+        "task": "upgrade paddle speed on break",
+        "created": "2024-06-17T15:29:08.769183",
+        "completed": "2024-06-18T12:57:09.640163",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix isw black screen",
+        "created": "2024-06-17T17:13:00.705289",
+        "completed": "2024-06-18T03:10:55.161531",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix freeze, set upgrade limits",
+        "created": "2024-06-17T21:14:02.586396",
+        "completed": "2024-06-18T05:49:46.535158",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "allow time simulation in appleseed",
+        "created": "2024-06-17T23:30:03.302777",
+        "completed": null,
+        "benched": "2024-06-18T12:57:39.212273",
+        "unbenched": null
+    },
+    {
+        "task": "sort where the best login and leaderboard functions are and consolidate",
+        "created": "2024-06-18T00:27:51.788869",
+        "completed": "2024-06-18T12:57:07.787634",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "johny appleseed game",
+        "created": "2024-06-18T03:10:40.782919",
+        "completed": "2024-06-18T03:10:46.663893",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "a",
+        "created": "2024-06-18T05:50:05.472491",
+        "completed": "2024-06-18T12:57:02.921188",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "seven and out dating game",
+        "created": "2024-06-18T13:01:16.999337",
+        "completed": "2024-06-18T18:33:45.591752",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "8bit sound generator",
+        "created": "2024-06-18T13:01:20.035057",
+        "completed": "2024-06-18T13:01:25.485928",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "write email to team",
+        "created": "2024-06-18T13:01:43.129701",
+        "completed": "2024-06-18T17:33:35.954940",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix achievements error",
+        "created": "2024-06-18T13:01:51.716645",
+        "completed": "2024-06-18T18:33:29.931749",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix achievmetns bug in isw",
+        "created": "2024-06-18T14:51:47.221256",
+        "completed": "2024-06-18T18:33:32.856379",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "setup UE environment ",
+        "created": "2024-06-18T15:39:40.134528",
+        "completed": null,
+        "benched": "2024-06-23T13:44:50.129029",
+        "unbenched": null
+    },
+    {
+        "task": "make wumpus game ",
+        "created": "2024-06-18T16:27:36.441689",
+        "completed": "2024-06-18T16:27:38.826094",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "review dating game enhancements",
+        "created": "2024-06-18T18:33:51.107543",
+        "completed": "2024-06-20T01:44:09.285232",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "come to agreement on dating game",
+        "created": "2024-06-18T18:33:54.145413",
+        "completed": "2024-06-21T11:47:22.956878",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "freeze effect not working ",
+        "created": "2024-06-19T18:59:47.134871",
+        "completed": "2024-06-20T01:44:02.955116",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "data analytics for gameplay ",
+        "created": "2024-06-19T19:00:12.059239",
+        "completed": "2024-06-20T01:43:58.156768",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix isw login",
+        "created": "2024-06-19T19:00:20.694537",
+        "completed": "2024-06-20T01:44:00.526007",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "organize new ssounds and sound generation",
+        "created": "2024-06-19T19:11:00.868830",
+        "completed": "2024-06-20T01:44:06.137368",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "mega boss ",
+        "created": "2024-06-20T01:45:54.745678",
+        "completed": "2024-06-20T04:19:44.780648",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "add damage report to final save",
+        "created": "2024-06-20T01:45:57.544062",
+        "completed": "2024-06-20T04:19:43.419764",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "smart alien logic",
+        "created": "2024-06-20T01:46:05.449086",
+        "completed": "2024-06-20T04:19:40.964571",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "oii",
+        "created": "2024-06-20T01:46:10.916015",
+        "completed": "2024-06-20T04:19:35.971129",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "new icons or tweak icons",
+        "created": "2024-06-20T01:46:19.606286",
+        "completed": "2024-06-20T04:19:33.989186",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "slow down early game progression",
+        "created": "2024-06-20T01:46:21.683782",
+        "completed": "2024-06-20T04:19:31.680945",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "ship types",
+        "created": "2024-06-20T04:19:17.115288",
+        "completed": "2024-06-20T04:19:29.854480",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "add leaderboard weapon types",
+        "created": "2024-06-20T04:19:22.714655",
+        "completed": "2024-06-20T04:19:28.694508",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "cool looking achievements screen at end of match",
+        "created": "2024-06-20T12:07:37.396224",
+        "completed": "2024-06-23T13:44:45.732116",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "prevent unlocks from taking place untli next wave",
+        "created": "2024-06-20T12:07:39.181587",
+        "completed": "2024-06-21T11:47:18.399901",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "weapon slots ",
+        "created": "2024-06-20T12:07:46.358799",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "double boomeraing isw",
+        "created": "2024-06-20T12:07:50.091811",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "upgrade slots",
+        "created": "2024-06-20T12:07:54.714248",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "play some other roguelikes",
+        "created": "2024-06-20T12:08:27.487291",
+        "completed": "2024-06-21T11:47:13.990712",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "come up with new game",
+        "created": "2024-06-20T12:08:43.261476",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix admin screen to show ranked usage weapon by total damage and total time",
+        "created": "2024-06-20T12:40:07.138185",
+        "completed": "2024-06-21T11:47:00.792168",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "record gems",
+        "created": "2024-06-20T12:44:53.562588",
+        "completed": "2024-06-21T11:47:05.912800",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "freeform image gen",
+        "created": "2024-06-20T12:45:45.751144",
+        "completed": "2024-06-21T11:47:09.453916",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "think moer about sound design",
+        "created": "2024-06-20T12:51:48.343605",
+        "completed": "2024-06-21T11:47:11.877839",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "rest more",
+        "created": "2024-06-22T12:34:22.020373",
+        "completed": "2024-06-23T13:44:40.292248",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "more rading bot logic ",
+        "created": "2024-06-22T12:34:31.794822",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "document remaining bugs",
+        "created": "2024-06-22T12:35:22.682377",
+        "completed": "2024-06-23T13:44:36.280486",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "figure out plan for future bug reporting",
+        "created": "2024-06-22T12:35:28.198348",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "review new music",
+        "created": "2024-06-22T12:35:38.879556",
+        "completed": "2024-06-23T14:07:19.483556",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "go through JB bugs",
+        "created": "2024-06-22T16:08:04.138378",
+        "completed": "2024-06-23T13:44:34.164840",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "go through RD bugs again",
+        "created": "2024-06-22T16:08:09.503696",
+        "completed": "2024-06-23T13:44:30.988242",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "make plan for next scifi v binge",
+        "created": "2024-06-22T16:13:48.717551",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "10i",
+        "created": "2024-06-23T13:45:42.621918",
+        "completed": "2024-06-23T13:45:45.126808",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "gems to be picked up for big fish",
+        "created": "2024-06-23T14:06:13.305167",
+        "completed": "2024-06-23T14:07:17.511253",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "x ai applicatoin ",
+        "created": "2024-06-23T14:06:19.089587",
+        "completed": "2024-06-23T14:07:16.521710",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "integrate new music ",
+        "created": "2024-06-23T14:07:26.377550",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "more ships",
+        "created": "2024-06-23T14:09:44.067840",
+        "completed": "2024-06-23T14:16:44.119159",
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix new spinner bugs from RD",
+        "created": "2024-06-24T14:25:56.089497",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "fix full screen bug",
+        "created": "2024-06-24T16:22:45.380074",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "restart button bug ",
+        "created": "2024-06-24T16:33:07.980098",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "quantum striker is smaller",
+        "created": "2024-06-24T16:33:24.191253",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "ship bullet size bug",
+        "created": "2024-06-24T16:44:26.445765",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "rebalance score issue ",
+        "created": "2024-06-24T17:03:10.733474",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    },
+    {
+        "task": "more analytics for scoring",
+        "created": "2024-06-24T17:03:15.332124",
+        "completed": null,
+        "benched": null,
+        "unbenched": null
+    }
+]
