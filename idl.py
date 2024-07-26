@@ -64,12 +64,13 @@ def display_todos(todos, subcategory, show_benched=False):
                 displayed_todos.append(idx)
                 count += 1
         else:
+            status = "In Progress" if todo.get('in_progress') else "Not Started"
             if not todo.get('completed') and not todo.get('benched'):
-                print(f"{count}. {todo['task']} (Created: {todo['created']})")
+                print(f"{count}. {todo['task']} (Created: {todo['created']}, Status: {status})")
                 displayed_todos.append(idx)
                 count += 1
             elif not todo.get('completed') and todo.get('unbenched'):
-                print(f"{count}. {todo['task']} (Created: {todo['created']}, Benched: {todo['benched']}, Unbenched: {todo['unbenched']})")
+                print(f"{count}. {todo['task']} (Created: {todo['created']}, Benched: {todo['benched']}, Unbenched: {todo['unbenched']}, Status: {status})")
                 displayed_todos.append(idx)
                 count += 1
     print()
@@ -88,7 +89,10 @@ def add_todo(task, subcategory):
         "created": datetime.datetime.now().isoformat(),
         "completed": None,
         "benched": None,
-        "unbenched": None
+        "unbenched": None,
+        "in_progress": False,
+        "start_time": None,
+        "time_spent": 0  # In seconds
     }
     todos["subcategories"][subcategory].append(new_todo)
     save_todos(todos)
@@ -117,6 +121,11 @@ def mark_todo_complete(index, displayed_todos, subcategory):
     if 0 <= index < len(displayed_todos):
         todo_index = displayed_todos[index]
         todos["subcategories"][subcategory][todo_index]['completed'] = datetime.datetime.now().isoformat()
+        # Stop tracking time if in progress
+        if todos["subcategories"][subcategory][todo_index]['in_progress']:
+            todos["subcategories"][subcategory][todo_index]['in_progress'] = False
+            time_spent = (datetime.datetime.now() - datetime.datetime.fromisoformat(todos["subcategories"][subcategory][todo_index]['start_time'])).total_seconds()
+            todos["subcategories"][subcategory][todo_index]['time_spent'] += time_spent
         save_todos(todos)
         print(f"Marked item {index + 1} as complete.")
     else:
@@ -163,6 +172,42 @@ def move_todo_to_subcategory(index, displayed_todos, from_subcategory, to_subcat
     else:
         print("Invalid index.")
 
+def start_todo_in_progress(index, displayed_todos, subcategory):
+    todos = load_todos()
+    # Ensure no other item is in progress
+    for subcat, tasks in todos["subcategories"].items():
+        for task in tasks:
+            if task['in_progress']:
+                print("Another task is already in progress. Complete or stop that task before starting a new one.")
+                return
+    if 0 <= index < len(displayed_todos):
+        todo_index = displayed_todos[index]
+        todos["subcategories"][subcategory][todo_index]['in_progress'] = True
+        todos["subcategories"][subcategory][todo_index]['start_time'] = datetime.datetime.now().isoformat()
+        save_todos(todos)
+        print(f"Started item {index + 1} as in progress.")
+    else:
+        print("Invalid index.")
+
+def stop_todo_in_progress():
+    todos = load_todos()
+    found = False
+    for subcat, tasks in todos["subcategories"].items():
+        for task in tasks:
+            if task['in_progress']:
+                found = True
+                task['in_progress'] = False
+                time_spent = (datetime.datetime.now() - datetime.datetime.fromisoformat(task['start_time'])).total_seconds()
+                task['time_spent'] += time_spent
+                task['start_time'] = None
+                save_todos(todos)
+                print(f"Stopped task '{task['task']}' in progress.")
+                break
+        if found:
+            break
+    if not found:
+        print("No task is currently in progress.")
+
 def main():
     show_benched = False
     in_ideas = False
@@ -184,7 +229,7 @@ def main():
                 if show_benched:
                     user_input = input("Benched view - Enter the number of an item to unbench it, or 'v' to view main list (or 'q' to quit): ")
                 else:
-                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, or 'back' to go back to subcategories (or 'q' to quit): ")
+                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' followed by the number and subcategory to move an item (e.g., 'move 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
 
         if user_input.lower() == 'q':
             break
@@ -217,13 +262,21 @@ def main():
                 bench_todo_item(index, displayed_todos, current_subcategory)
             except ValueError:
                 print("Invalid input for benching an item.")
-        elif user_input.lower().startswith(current_subcategory) and not in_ideas:
+        elif user_input.lower().startswith('move') and not in_ideas:
             try:
-                _, index_str = user_input.split(' ', 1)
+                _, index_str, to_subcategory = user_input.split(' ', 2)
                 index = int(index_str) - 1
-                move_todo_to_subcategory(index, displayed_todos, current_subcategory, current_subcategory)
+                move_todo_to_subcategory(index, displayed_todos, current_subcategory, to_subcategory)
             except ValueError:
                 print("Invalid input for moving an item.")
+        elif user_input.lower().startswith('start') and not in_ideas:
+            try:
+                index = int(user_input[5:]) - 1
+                start_todo_in_progress(index, displayed_todos, current_subcategory)
+            except ValueError:
+                print("Invalid input for starting an item in progress.")
+        elif user_input.lower() == 'stop' and not in_ideas:
+            stop_todo_in_progress()
         elif not in_ideas:
             add_todo(user_input, current_subcategory)
             displayed_todos = display_todos(load_todos(), current_subcategory, show_benched)  # Display the updated list after adding a new item
