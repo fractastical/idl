@@ -1,10 +1,11 @@
 import json
 import datetime
 import os
+import matplotlib.pyplot as plt
+from collections import defaultdict
 
 # Path to the JSON file
 TODO_FILE = 'todo_list.json'
-IDEAS_FILE = 'ideas_list.json'
 
 def migrate_todo_data():
     if os.path.exists(TODO_FILE):
@@ -62,7 +63,8 @@ def display_subcategories(todos):
     print("\nSubcategories:")
     subcategories = list(todos["subcategories"].keys())
     for idx, subcategory in enumerate(subcategories):
-        print(f"{idx + 1}. {subcategory}")
+        num_items = len(todos["subcategories"][subcategory])
+        print(f"{idx + 1}. {subcategory} ({num_items} items)")
     print()
     return subcategories
 
@@ -242,7 +244,7 @@ def main():
                 if show_benched:
                     user_input = input("Benched view - Enter the number of an item to unbench it, or 'v' to view main list (or 'q' to quit): ")
                 else:
-                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' or 'm' followed by the number and subcategory to move an item (e.g., 'move 3 ia' or 'm 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
+                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' or 'm ' followed by the number and subcategory to move an item (e.g., 'move 3 ia' or 'm 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
 
         if user_input.lower() == 'q':
             break
@@ -275,9 +277,9 @@ def main():
                 bench_todo_item(index, displayed_todos, current_subcategory)
             except ValueError:
                 print("Invalid input for benching an item.")
-        elif user_input.lower().startswith('move') or user_input.lower().startswith('m') and not in_ideas:
+        elif (user_input.lower().startswith('move ') or user_input.lower().startswith('m ')) and not in_ideas:
             try:
-                if user_input.lower().startswith('move'):
+                if user_input.lower().startswith('move '):
                     _, index_str, to_subcategory = user_input.split(' ', 2)
                 else:
                     _, index_str, to_subcategory = user_input.split(' ', 2)
