@@ -6,6 +6,7 @@ from collections import defaultdict
 
 # Path to the JSON file
 TODO_FILE = 'todo_list.json'
+IDEAS_FILE = 'ideas_list.json'
 
 def migrate_todo_data():
     if os.path.exists(TODO_FILE):
@@ -63,8 +64,8 @@ def display_subcategories(todos):
     print("\nSubcategories:")
     subcategories = list(todos["subcategories"].keys())
     for idx, subcategory in enumerate(subcategories):
-        num_items = len(todos["subcategories"][subcategory])
-        print(f"{idx + 1}. {subcategory} ({num_items} items)")
+        num_items = sum(1 for task in todos["subcategories"][subcategory] if not task.get('completed'))
+        print(f"{idx + 1}. {subcategory} ({num_items} undone items)")
     print()
     return subcategories
 
@@ -223,6 +224,19 @@ def stop_todo_in_progress():
     if not found:
         print("No task is currently in progress.")
 
+def display_recently_completed(todos, subcategory, number_of_tasks):
+    completed_tasks = []
+    for task in todos["subcategories"][subcategory]:
+        if task.get("completed"):
+            completed_tasks.append((task["task"], task["completed"]))
+
+    completed_tasks.sort(key=lambda x: datetime.datetime.fromisoformat(x[1]), reverse=True)
+    
+    print(f"\nRecently Completed Tasks in {subcategory} (Most Recent {number_of_tasks}):")
+    for idx, (task, completed_time) in enumerate(completed_tasks[:number_of_tasks]):
+        print(f"{idx + 1}. {task} (Completed: {completed_time})")
+    print()
+
 def main():
     show_benched = False
     in_ideas = False
@@ -232,7 +246,7 @@ def main():
         if current_subcategory is None:
             todos = load_todos()
             subcategories = display_subcategories(todos)
-            user_input = input("Enter the number of a subcategory to view its to-do list, 'create' followed by subcategory name to create a new subcategory, or 'q' to quit: ")
+            user_input = input("Enter the number of a subcategory to view its to-do list, 'create' followed by subcategory name to create a new subcategory, 'r NUMBER' followed by subcategory to view recently completed items, or 'q' to quit: ")
         else:
             if in_ideas:
                 ideas = load_ideas()
@@ -295,6 +309,15 @@ def main():
                 print("Invalid input for starting an item in progress.")
         elif user_input.lower() == 'stop' and not in_ideas:
             stop_todo_in_progress()
+        elif user_input.lower().startswith('r ') and current_subcategory is None:
+            try:
+                _, number_and_subcategory = user_input.split(' ', 1)
+                number_of_tasks, subcategory = number_and_subcategory.split(' ', 1)
+                number_of_tasks = int(number_of_tasks)
+                todos = load_todos()
+                display_recently_completed(todos, subcategory, number_of_tasks)
+            except ValueError:
+                print("Invalid input for viewing recently completed items.")
         elif not in_ideas:
             add_todo(user_input, current_subcategory)
             displayed_todos = display_todos(load_todos(), current_subcategory, show_benched)  # Display the updated list after adding a new item
