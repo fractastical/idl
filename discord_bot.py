@@ -89,15 +89,22 @@ async def list_todos(ctx):
 
 @bot.command(name='completed')
 @commands.check(check_channel)
-async def list_completed(ctx):
+async def list_completed(ctx, num_tasks: int = 10):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
     
+    # Get completed tasks
     completed_tasks = [todo for todo in todo_list if todo.get('completed')]
     
     if not completed_tasks:
         await ctx.send("There are no completed tasks.")
         return
+
+    # Sort tasks by the 'completed' field in descending order (most recent first)
+    completed_tasks.sort(key=lambda x: x.get('completed', ''), reverse=True)
+    
+    # Limit the tasks to the specified number (or default to 10 if not specified)
+    limited_completed_tasks = completed_tasks[:num_tasks]
     
     # Function to create a formatted string for a completed task
     def format_task(idx, todo):
@@ -109,7 +116,7 @@ async def list_completed(ctx):
     responses = []
     current_response = "Completed Tasks:\n"
     
-    for idx, todo in enumerate(completed_tasks):
+    for idx, todo in enumerate(limited_completed_tasks):
         task_str = format_task(idx, todo) + "\n"
         if len(current_response) + len(task_str) > 1900:
             responses.append(current_response)
@@ -123,6 +130,8 @@ async def list_completed(ctx):
     # Send paginated responses
     for idx, response in enumerate(responses):
         await ctx.send(f"Page {idx+1}/{len(responses)}:\n{response}")
+
+    await ctx.send(f"Showing the most recent {num_tasks} completed tasks.")
 
 @bot.command(name='benched')
 @commands.check(check_channel)

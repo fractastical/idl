@@ -5376,7 +5376,7 @@
             {
                 "task": "Provide more information for certain achievements. (i.e. wave)",
                 "created": "2024-09-15T12:41:49.748200",
-                "completed": null,
+                "completed": "2024-09-15T15:10:27.636474",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5386,7 +5386,7 @@
             {
                 "task": "Make the enemy projectiles easier to see.",
                 "created": "2024-09-15T12:41:55.756630",
-                "completed": null,
+                "completed": "2024-09-15T15:32:10.770163",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5396,7 +5396,7 @@
             {
                 "task": "Set a minimum size for the asteroids.",
                 "created": "2024-09-15T12:42:00.233816",
-                "completed": null,
+                "completed": "2024-09-15T14:44:14.851663",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5406,7 +5406,7 @@
             {
                 "task": "Adjust the EXP pickups to be more intuitive.",
                 "created": "2024-09-15T12:42:08.220075",
-                "completed": null,
+                "completed": "2024-09-15T15:18:16.302143",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5446,7 +5446,7 @@
             {
                 "task": "Ship would switch to the \u201cBasic\u201d ship after getting an upgrade",
                 "created": "2024-09-15T12:42:52.610899",
-                "completed": null,
+                "completed": "2024-09-15T14:46:58.000888",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5488,7 +5488,7 @@
             {
                 "task": "ship switch on wave 10",
                 "created": "2024-09-15T13:07:08.927512",
-                "completed": null,
+                "completed": "2024-09-15T14:41:54.311946",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5499,7 +5499,7 @@
                 "task": "extra weapon over weapon count",
                 "created": "2024-09-15T13:07:23.677838",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-09-15T15:25:53.157869",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5508,7 +5508,7 @@
             {
                 "task": "weird icon for drone army",
                 "created": "2024-09-15T13:07:28.713692",
-                "completed": null,
+                "completed": "2024-09-15T14:36:37.219735",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5558,7 +5558,7 @@
             {
                 "task": "add deep space description to achievemetns that don't have it",
                 "created": "2024-09-15T13:10:03.132226",
-                "completed": null,
+                "completed": "2024-09-15T15:31:58.909493",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5610,6 +5610,216 @@
             {
                 "task": "consider capping asteroid max speed",
                 "created": "2024-09-15T14:32:06.112215",
+                "completed": "2024-09-15T15:06:07.385199",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "boost percentages for first space upgrade",
+                "created": "2024-09-15T14:35:44.178932",
+                "completed": "2024-09-15T15:25:39.781940",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "crazy games does not detech user auth ",
+                "created": "2024-09-15T15:06:00.242528",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "wrong count for total weapons",
+                "created": "2024-09-15T15:08:19.503035",
+                "completed": "2024-09-15T19:03:06.677420",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make piercing more prominent",
+                "created": "2024-09-15T15:15:45.244486",
+                "completed": "2024-09-15T15:28:42.093812",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "create user settings management ",
+                "created": "2024-09-15T15:32:56.432404",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " boss music does not turn off",
+                "created": "2024-09-15T15:33:28.867307",
+                "completed": "2024-09-15T15:42:01.419492",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " boss sounds too loud",
+                "created": "2024-09-15T15:33:39.110261",
+                "completed": "2024-09-15T15:41:59.898841",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test all crazygames flows",
+                "created": "2024-09-15T15:43:49.222371",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "enhance octoboss some more",
+                "created": "2024-09-15T15:59:52.505436",
+                "completed": "2024-09-15T23:59:53.366263",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add time to glow ",
+                "created": "2024-09-15T18:21:16.796393",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "landscale mobile view",
+                "created": "2024-09-15T18:21:29.990551",
+                "completed": "2024-09-15T23:59:45.838947",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "figure out which achievement pages are disaappering",
+                "created": "2024-09-15T19:03:04.160066",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix cryobomb spacing bug",
+                "created": "2024-09-15T22:58:42.235126",
+                "completed": "2024-09-15T22:58:43.759661",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Make the \u201cExtra Upgrade Choice\u201d benefit permanent",
+                "created": "2024-09-15T23:32:18.643906",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Make the \u201cMega Upgrades\u201d a bit easier and clearer to understand.",
+                "created": "2024-09-15T23:32:46.325032",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Give a short description for each of the ships, highlighting their upgrades and benefits.",
+                "created": "2024-09-15T23:32:52.709191",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix inner ring for large hp asteroids",
+                "created": "2024-09-15T23:49:40.087542",
+                "completed": "2024-09-15T23:49:42.635391",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile buttons still visible on main menu",
+                "created": "2024-09-16T00:29:20.915687",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "slightly decrease acceleration for mobile verson",
+                "created": "2024-09-16T00:29:29.525669",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix mobie fps",
+                "created": "2024-09-16T00:33:02.350381",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile fps",
+                "created": "2024-09-16T00:33:21.515469",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
