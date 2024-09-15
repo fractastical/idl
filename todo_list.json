@@ -5436,12 +5436,14 @@
             {
                 "task": "integrate discord ",
                 "created": "2024-09-15T13:06:53.105052",
-                "completed": null,
+                "completed": "2024-09-15T14:20:14.586094",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
-                "time_spent": 0
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
             },
             {
                 "task": "ship switch on wave 10",
@@ -5536,12 +5538,14 @@
             {
                 "task": "add todo to channel",
                 "created": "2024-09-15T13:48:47.650151",
-                "completed": null,
+                "completed": "2024-09-15T14:18:17.717735",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
-                "time_spent": 0
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
             },
             {
                 "task": "follow up with wim hof",

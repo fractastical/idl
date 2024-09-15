@@ -41,27 +41,22 @@ async def on_ready():
         todos["subcategories"][SUBCATEGORY] = []
         save_todos(todos)
 
-@bot.command(name='ping')
-async def ping(ctx):
-    await ctx.send('Pong!')
-
 @bot.command(name='todos')
 @commands.check(check_channel)
 async def list_todos(ctx):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
     
-    if not todo_list:
-        await ctx.send("The todo list is empty.")
+    # Filter active tasks (not completed and not benched)
+    active_tasks = [todo for todo in todo_list if not todo.get('completed') and not todo.get('benched')]
+    
+    if not active_tasks:
+        await ctx.send("There are no active tasks in the todo list.")
         return
     
-    # Separate active and completed tasks
-    active_tasks = [todo for todo in todo_list if not todo.get('completed')]
-    completed_tasks = [todo for todo in todo_list if todo.get('completed')]
-    
     # Function to create a formatted string for a task
-    def format_task(idx, todo, is_completed=False):
-        status = "Completed" if is_completed else "In Progress" if todo.get('in_progress') else "Not Started"
+    def format_task(idx, todo):
+        status = "In Progress" if todo.get('in_progress') else "Not Started"
         added_by = todo.get('added_by_name', 'Unknown')
         created = todo.get('created', 'Unknown date')
         return f"{idx + 1}. {todo['task']} (Created: {created}, Status: {status}, Added by: {added_by})"
@@ -81,27 +76,90 @@ async def list_todos(ctx):
     if current_response:
         responses.append(current_response)
 
-    # Add completed tasks
-    if completed_tasks:
-        current_response = "Completed Tasks:\n"
-        for idx, todo in enumerate(completed_tasks):
-            task_str = format_task(idx, todo, is_completed=True) + "\n"
-            if len(current_response) + len(task_str) > 1900:
-                responses.append(current_response)
-                current_response = task_str
-            else:
-                current_response += task_str
-        
-        if current_response:
-            responses.append(current_response)
-
     # Send paginated responses
     for idx, response in enumerate(responses):
         await ctx.send(f"Page {idx+1}/{len(responses)}:\n{response}")
 
     # Send summary
-    summary = f"Total tasks: {len(todo_list)}, Active: {len(active_tasks)}, Completed: {len(completed_tasks)}"
+    completed_tasks = [todo for todo in todo_list if todo.get('completed')]
+    benched_tasks = [todo for todo in todo_list if todo.get('benched')]
+    summary = f"Total tasks: {len(todo_list)}, Active: {len(active_tasks)}, Completed: {len(completed_tasks)}, Benched: {len(benched_tasks)}"
     await ctx.send(summary)
+    await ctx.send("To view completed tasks, use !completed. To view benched tasks, use !benched.")
+
+@bot.command(name='completed')
+@commands.check(check_channel)
+async def list_completed(ctx):
+    todos = load_todos()
+    todo_list = todos["subcategories"][SUBCATEGORY]
+    
+    completed_tasks = [todo for todo in todo_list if todo.get('completed')]
+    
+    if not completed_tasks:
+        await ctx.send("There are no completed tasks.")
+        return
+    
+    # Function to create a formatted string for a completed task
+    def format_task(idx, todo):
+        completed_date = todo.get('completed', 'Unknown date')
+        added_by = todo.get('added_by_name', 'Unknown')
+        return f"{idx + 1}. {todo['task']} (Completed: {completed_date}, Added by: {added_by})"
+
+    # Create paginated responses
+    responses = []
+    current_response = "Completed Tasks:\n"
+    
+    for idx, todo in enumerate(completed_tasks):
+        task_str = format_task(idx, todo) + "\n"
+        if len(current_response) + len(task_str) > 1900:
+            responses.append(current_response)
+            current_response = task_str
+        else:
+            current_response += task_str
+    
+    if current_response:
+        responses.append(current_response)
+
+    # Send paginated responses
+    for idx, response in enumerate(responses):
+        await ctx.send(f"Page {idx+1}/{len(responses)}:\n{response}")
+
+@bot.command(name='benched')
+@commands.check(check_channel)
+async def list_benched(ctx):
+    todos = load_todos()
+    todo_list = todos["subcategories"][SUBCATEGORY]
+    
+    benched_tasks = [todo for todo in todo_list if todo.get('benched')]
+    
+    if not benched_tasks:
+        await ctx.send("There are no benched tasks.")
+        return
+    
+    # Function to create a formatted string for a benched task
+    def format_task(idx, todo):
+        benched_date = todo.get('benched', 'Unknown date')
+        added_by = todo.get('added_by_name', 'Unknown')
+        return f"{idx + 1}. {todo['task']} (Benched: {benched_date}, Added by: {added_by})"
+
+    # Create paginated responses
+    responses = []
+    current_response = "Benched Tasks:\n"
+    
+    for idx, todo in enumerate(benched_tasks):
+        task_str = format_task(idx, todo) + "\n"
+        if len(current_response) + len(task_str) > 1900:
+            responses.append(current_response)
+            current_response = task_str
+        else:
+            current_response += task_str
+    
+    if current_response:
+        responses.append(current_response)
+
+    # Send paginated responses
+    for idx, response in enumerate(responses):
+        await ctx.send(f"Page {idx+1}/{len(responses)}:\n{response}")
 
 @bot.command(name='add')
 @commands.check(check_channel)
@@ -115,7 +173,7 @@ async def complete_todo(ctx, index: int):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
     
-    active_tasks = [todo for todo in todo_list if not todo.get('completed')]
+    active_tasks = [todo for todo in todo_list if not todo.get('completed') and not todo.get('benched')]
     
     if 0 < index <= len(active_tasks):
         todo = active_tasks[index - 1]
@@ -136,7 +194,7 @@ async def start_todo(ctx, index: int):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
     
-    active_tasks = [todo for todo in todo_list if not todo.get('completed')]
+    active_tasks = [todo for todo in todo_list if not todo.get('completed') and not todo.get('benched')]
     
     if 0 < index <= len(active_tasks):
         todo = active_tasks[index - 1]
@@ -165,7 +223,7 @@ async def stop_todo(ctx):
         if task.get('in_progress'):
             task['in_progress'] = False
             time_spent = (datetime.datetime.now() - datetime.datetime.fromisoformat(task['start_time'])).total_seconds()
-            task['time_spent'] += time_spent
+            task['time_spent'] = task.get('time_spent', 0) + time_spent
             task['start_time'] = None
             task['stopped_by_id'] = str(ctx.author.id)
             task['stopped_by_name'] = ctx.author.name
@@ -182,13 +240,14 @@ async def stop_todo(ctx):
 async def show_todo_help(ctx):
     help_text = """
     Available commands:
-    !todos - List all todos
+    !todos - List all active todos
+    !completed - List completed todos
+    !benched - List benched todos
     !add <task> - Add a new todo
     !complete <index> - Mark a todo as complete
     !start <index> - Start working on a todo
     !stop - Stop working on the current todo
     !todohelp - Show this help message
-    !ping - Check if the bot is responsive
     """
     await ctx.send(help_text)
 
