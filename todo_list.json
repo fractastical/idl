@@ -2884,7 +2884,7 @@
             {
                 "task": "go to embassy",
                 "created": "2024-09-11T09:37:38.593803",
-                "completed": null,
+                "completed": "2024-09-15T14:22:16.660062",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2904,6 +2904,46 @@
             {
                 "task": "write darkside of daodejing",
                 "created": "2024-09-14T12:29:21.350034",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "endogenous DMT list ",
+                "created": "2024-09-15T14:22:10.783251",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "try bank login again ",
+                "created": "2024-09-15T14:22:37.623655",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review dutch plan",
+                "created": "2024-09-15T14:22:42.969286",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send mb gaia compute plan",
+                "created": "2024-09-15T14:22:59.348086",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -5550,6 +5590,26 @@
             {
                 "task": "follow up with wim hof",
                 "created": "2024-09-15T13:51:01.548408",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consider stable laser leveling for bosses",
+                "created": "2024-09-15T14:23:19.010621",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consider capping asteroid max speed",
+                "created": "2024-09-15T14:32:06.112215",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
