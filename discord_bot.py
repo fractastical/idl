@@ -13,6 +13,13 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 # Specify the subcategory to use
 SUBCATEGORY = 'ia'
 
+# Specify the channel name where the bot should work
+CHANNEL_NAME = 'feedback'
+
+# Function to check if the command is used in the correct channel
+def check_channel(ctx):
+    return ctx.channel.name == CHANNEL_NAME
+
 # Function to read the bot token from file
 def read_bot_token():
     token_file = '.discord_bot_token'
@@ -31,6 +38,7 @@ async def on_ready():
         save_todos(todos)
 
 @bot.command(name='todos')
+@commands.check(check_channel)
 async def list_todos(ctx):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
@@ -48,11 +56,13 @@ async def list_todos(ctx):
     await ctx.send(response)
 
 @bot.command(name='add')
+@commands.check(check_channel)
 async def add_todo_item(ctx, *, task):
     add_todo(task, SUBCATEGORY)
     await ctx.send(f"Added a new task to the todo list.")
 
 @bot.command(name='complete')
+@commands.check(check_channel)
 async def complete_todo(ctx, index: int):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
@@ -69,6 +79,7 @@ async def complete_todo(ctx, index: int):
         await ctx.send("Invalid index.")
 
 @bot.command(name='start')
+@commands.check(check_channel)
 async def start_todo(ctx, index: int):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
@@ -88,6 +99,7 @@ async def start_todo(ctx, index: int):
         await ctx.send("Invalid index.")
 
 @bot.command(name='stop')
+@commands.check(check_channel)
 async def stop_todo(ctx):
     todos = load_todos()
     todo_list = todos["subcategories"][SUBCATEGORY]
@@ -108,6 +120,7 @@ async def stop_todo(ctx):
         await ctx.send("No task is currently in progress.")
 
 @bot.command(name='todohelp')
+@commands.check(check_channel)
 async def show_todo_help(ctx):
     help_text = """
     Available commands:
@@ -119,6 +132,11 @@ async def show_todo_help(ctx):
     !todohelp - Show this help message
     """
     await ctx.send(help_text)
+
+@bot.event
+async def on_command_error(ctx, error):
+    if isinstance(error, commands.CheckFailure):
+        await ctx.send(f"This command can only be used in the #{CHANNEL_NAME} channel.")
 
 if __name__ == "__main__":
     try:
