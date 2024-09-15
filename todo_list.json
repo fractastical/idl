@@ -1484,7 +1484,7 @@
             {
                 "task": "pay martin wheeler workshop",
                 "created": "2024-07-08T13:48:19.858523",
-                "completed": null,
+                "completed": "2024-09-06T11:49:31.830242",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -1844,7 +1844,7 @@
             {
                 "task": "anti fungla",
                 "created": "2024-07-19T09:41:24.866916",
-                "completed": null,
+                "completed": "2024-08-28T13:23:51.129183",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2105,7 +2105,7 @@
                 "task": "add chinese monsters to book",
                 "created": "2024-07-26T12:43:09.598924",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-08-02T07:42:08.897511",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2134,7 +2134,7 @@
             {
                 "task": "schedule call with thomas and james",
                 "created": "2024-07-26T12:47:31.891326",
-                "completed": null,
+                "completed": "2024-07-31T20:23:15.458838",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2244,7 +2244,7 @@
             {
                 "task": "sign up bank things",
                 "created": "2024-07-28T15:56:07.376197",
-                "completed": null,
+                "completed": "2024-09-02T10:39:05.094861",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2255,7 +2255,7 @@
                 "task": "find uva recommendatnions",
                 "created": "2024-07-28T15:56:12.931731",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-08-11T20:25:50.765147",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2344,7 +2344,7 @@
             {
                 "task": "rev analytics",
                 "created": "2024-07-29T13:06:36.805506",
-                "completed": null,
+                "completed": "2024-07-31T20:23:11.581554",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2364,7 +2364,7 @@
             {
                 "task": "work on golem game design",
                 "created": "2024-07-29T17:28:48.409159",
-                "completed": null,
+                "completed": "2024-08-02T07:41:51.887161",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2394,7 +2394,7 @@
             {
                 "task": "WED review book todo list",
                 "created": "2024-07-31T14:31:38.145748",
-                "completed": null,
+                "completed": "2024-08-02T07:41:49.780824",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2404,7 +2404,7 @@
             {
                 "task": "WED review testrs",
                 "created": "2024-07-31T14:31:43.105836",
-                "completed": null,
+                "completed": "2024-08-02T07:41:44.906784",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2414,7 +2414,7 @@
             {
                 "task": "WED release notes",
                 "created": "2024-07-31T14:32:05.015674",
-                "completed": null,
+                "completed": "2024-08-02T07:41:46.728983",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2424,7 +2424,7 @@
             {
                 "task": "make decision on book cover ",
                 "created": "2024-07-31T14:32:19.602221",
-                "completed": null,
+                "completed": "2024-08-02T07:41:55.897657",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2434,7 +2434,7 @@
             {
                 "task": "review candy esports plan",
                 "created": "2024-07-31T14:53:54.372476",
-                "completed": null,
+                "completed": "2024-08-02T07:41:57.200674",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2445,7 +2445,7 @@
                 "task": "THUR cat coin",
                 "created": "2024-07-31T14:59:14.175299",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-08-28T13:23:45.280337",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2454,7 +2454,7 @@
             {
                 "task": "send y games",
                 "created": "2024-07-31T14:59:25.088822",
-                "completed": null,
+                "completed": "2024-08-02T07:41:59.975611",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2464,7 +2464,7 @@
             {
                 "task": "resolve banking setup",
                 "created": "2024-07-31T15:05:02.675224",
-                "completed": null,
+                "completed": "2024-09-02T10:39:02.409904",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2474,7 +2474,7 @@
             {
                 "task": "WED book Nice",
                 "created": "2024-07-31T15:05:54.487843",
-                "completed": null,
+                "completed": "2024-08-10T14:55:57.603983",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2484,7 +2484,7 @@
             {
                 "task": "WED book accomodation",
                 "created": "2024-07-31T15:05:57.831017",
-                "completed": null,
+                "completed": "2024-08-10T14:56:02.105972",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2494,6 +2494,416 @@
             {
                 "task": "research vipassana",
                 "created": "2024-07-31T15:15:05.029784",
+                "completed": null,
+                "benched": "2024-08-02T07:42:04.299133",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "retropi plan",
+                "created": "2024-07-31T15:55:33.605610",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "WED prepare cat coin assets",
+                "created": "2024-07-31T15:55:50.689071",
+                "completed": "2024-08-02T07:41:35.065744",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish linear algebra textbook",
+                "created": "2024-07-31T20:23:07.561481",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish writing uva letter",
+                "created": "2024-08-02T07:42:39.339135",
+                "completed": "2024-08-11T20:25:44.172755",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send monsters to uva",
+                "created": "2024-08-02T07:42:57.352701",
+                "completed": "2024-08-25T20:46:49.692807",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send K ansswer to question",
+                "created": "2024-08-02T07:49:59.469552",
+                "completed": "2024-08-11T20:25:41.117306",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "pay for calesthetnics",
+                "created": "2024-08-10T14:55:40.523293",
+                "completed": "2024-08-12T16:12:14.131437",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "look up peter peterson",
+                "created": "2024-08-10T14:56:05.981448",
+                "completed": "2024-08-25T20:46:48.030055",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "unlock FB",
+                "created": "2024-08-10T14:56:11.064991",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write fF",
+                "created": "2024-08-10T14:56:17.887335",
+                "completed": "2024-08-11T20:25:30.744959",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish pity response and send to mom",
+                "created": "2024-08-10T14:56:23.269270",
+                "completed": "2024-08-11T20:25:28.886219",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "pay ff",
+                "created": "2024-08-11T20:26:00.491541",
+                "completed": "2024-08-25T20:46:46.085879",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "only show non benched titles in top level summary",
+                "created": "2024-08-12T09:46:56.001863",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make monday todo list",
+                "created": "2024-08-12T09:47:03.331117",
+                "completed": "2024-08-25T20:47:35.493112",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mon chewy v 2",
+                "created": "2024-08-12T09:49:07.442210",
+                "completed": "2024-08-25T20:46:56.620681",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mon gods and monsters prototype",
+                "created": "2024-08-12T09:49:13.186680",
+                "completed": "2024-08-25T20:46:53.970954",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mon cat proto type",
+                "created": "2024-08-12T09:49:17.028995",
+                "completed": "2024-08-25T20:47:38.729392",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mon accounitng",
+                "created": "2024-08-12T09:49:37.587290",
+                "completed": "2024-08-25T20:46:59.936969",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write up wim hof research review",
+                "created": "2024-08-12T11:11:00.500182",
+                "completed": "2024-08-25T20:47:03.392020",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "follow up with Nina",
+                "created": "2024-08-12T11:24:01.990991",
+                "completed": "2024-08-30T17:24:22.429390",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "script to go through open source books and illustrate them with AI ",
+                "created": "2024-08-18T12:38:18.610797",
+                "completed": null,
+                "benched": "2024-08-25T20:47:57.988676",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "remove benched items from totals in idl",
+                "created": "2024-08-25T20:46:37.387842",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "g 12",
+                "created": "2024-08-25T20:47:51.641770",
+                "completed": "2024-08-25T20:47:59.716511",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "check out tat's book",
+                "created": "2024-08-25T21:11:47.469568",
+                "completed": null,
+                "benched": "2024-08-28T13:24:01.049919",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make timeline",
+                "created": "2024-08-26T11:15:48.696508",
+                "completed": "2024-09-02T10:38:53.986378",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "playfight poem",
+                "created": "2024-08-26T11:22:58.874612",
+                "completed": "2024-08-29T17:02:12.758458",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get electric toothbursh",
+                "created": "2024-08-29T17:02:11.634125",
+                "completed": "2024-09-02T10:38:51.597504",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find mouthwash",
+                "created": "2024-08-30T17:24:17.254223",
+                "completed": "2024-09-02T10:38:50.720806",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "script for book",
+                "created": "2024-08-30T17:37:32.652375",
+                "completed": "2024-09-02T10:38:46.900865",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 234065.624991
+            },
+            {
+                "task": "stop 14",
+                "created": "2024-09-02T10:38:32.670613",
+                "completed": "2024-09-02T10:38:48.812156",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "stop ",
+                "created": "2024-09-02T10:38:38.349953",
+                "completed": "2024-09-02T10:38:43.752528",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "order cheap arcade",
+                "created": "2024-09-02T12:24:19.038436",
+                "completed": "2024-09-06T11:49:45.847032",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "chapter 2 footnotes and refs",
+                "created": "2024-09-03T09:52:32.900048",
+                "completed": "2024-09-03T17:54:42.395483",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 28924.962645
+            },
+            {
+                "task": "fix \"b\" bug ",
+                "created": "2024-09-04T10:15:44.547977",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "chat with disco donny",
+                "created": "2024-09-04T10:22:33.049680",
+                "completed": "2024-09-06T11:49:42.585210",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "key ",
+                "created": "2024-09-06T11:49:03.124148",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review cpa",
+                "created": "2024-09-06T14:00:26.782231",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "plant app",
+                "created": "2024-09-06T20:55:36.215266",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "go to embassy",
+                "created": "2024-09-11T09:37:38.593803",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish wim hof report",
+                "created": "2024-09-11T09:37:48.381536",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write darkside of daodejing",
+                "created": "2024-09-14T12:29:21.350034",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -2536,7 +2946,7 @@
             {
                 "task": "It's extremely difficult to go beyond wave 10 on \"Planet: Hard\", even when using one of the two non-default ships. As a result, some achievements/weapons are perma-locked",
                 "created": "2024-07-09T11:18:45.762245",
-                "completed": null,
+                "completed": "2024-07-31T21:15:28.443560",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2576,7 +2986,7 @@
             {
                 "task": "flash achievements",
                 "created": "2024-07-03T13:26:57.477664",
-                "completed": null,
+                "completed": "2024-07-31T22:31:20.355069",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2676,7 +3086,7 @@
             {
                 "task": "xp booster upgrade for isw",
                 "created": "2024-07-26T12:52:35.774068",
-                "completed": null,
+                "completed": "2024-07-31T18:49:32.653930",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2787,7 +3197,7 @@
                 "task": "change music slightly with each 30 second lop",
                 "created": "2024-07-26T12:51:13.845371",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-08-29T13:45:40.194719",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -3002,6 +3412,2126 @@
                 "in_progress": false,
                 "start_time": null,
                 "time_spent": 0
+            },
+            {
+                "task": "fix damage pickle",
+                "created": "2024-07-31T18:49:43.380328",
+                "completed": "2024-07-31T21:15:19.541758",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix xpbooster",
+                "created": "2024-07-31T18:49:49.826912",
+                "completed": "2024-07-31T21:15:31.078826",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "extra choice bug",
+                "created": "2024-07-31T18:50:25.321210",
+                "completed": "2024-07-31T21:15:21.610214",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "double endscreen popup",
+                "created": "2024-07-31T18:50:45.202701",
+                "completed": "2024-07-31T21:47:01.929648",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "firestore issue",
+                "created": "2024-07-31T18:50:56.845966",
+                "completed": "2024-07-31T22:31:22.687168",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-07-31T21:15:12.653706",
+                "completed": "2024-07-31T21:15:35.785432",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-When selecting the \"Asteroid Splitter\" option, the tab freezes and doesn\u2019t allow any further actions, forcing a page refresh.",
+                "created": "2024-07-31T21:29:16.354243",
+                "completed": null,
+                "benched": "2024-07-31T21:46:58.271164",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "https://www.youtube.com/live/fjQAYLWcJjE",
+                "created": "2024-07-31T21:29:16.425006",
+                "completed": "2024-07-31T21:37:00.203595",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-When selecting the \"Restore Health\" option, if you have 3 lives, it gives you nothing and you lose the Mega Upgrade.",
+                "created": "2024-07-31T21:29:16.445938",
+                "completed": "2024-07-31T22:31:25.047946",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-Drone appears as \"NaN,\" and once selected, it cannot be further upgraded.",
+                "created": "2024-07-31T21:29:16.462702",
+                "completed": "2024-07-31T21:37:03.254924",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-When all upgrades are at level 10, and you continue leveling up, the 4th option appears as \"undefined\" when choosing.",
+                "created": "2024-07-31T21:29:16.476476",
+                "completed": "2024-07-31T22:34:26.405708",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-When the game is over, the images are too big and they look pixelated",
+                "created": "2024-07-31T21:29:16.489244",
+                "completed": "2024-07-31T21:41:54.234091",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-The first option of 'Choose a Mega Upgrade' does not work (I click in 'XP Monkey' option and nothing happens; then I choose the 2nd option and the game is broken or freezed and I have to restart).",
+                "created": "2024-07-31T21:29:16.502431",
+                "completed": "2024-07-31T22:34:34.000677",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-The sound of the SPIN is activated even when you have sound and music options off. ",
+                "created": "2024-07-31T21:29:16.516169",
+                "completed": "2024-07-31T21:44:57.091226",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-When there are many asteroids in the red circle, it is like they get stuck and remain spinning in the circle.",
+                "created": "2024-07-31T21:29:16.536592",
+                "completed": null,
+                "benched": "2024-08-29T17:00:29.742087",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ship more visible as you can see in this situation its very hard to see where you are and its dificult to dodge sometimes",
+                "created": "2024-08-01T01:36:08.116319",
+                "completed": "2024-08-29T17:00:31.957767",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "we have this masive bug with drone army",
+                "created": "2024-08-01T01:36:14.983638",
+                "completed": "2024-08-01T02:01:50.894684",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-01T01:36:15.329825",
+                "completed": "2024-08-01T01:36:17.858020",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "we should have a specific menu where you can see all the scores and leaderboards, i did 10 millon points on deep space hard and i coudnt see the leaderboard",
+                "created": "2024-08-01T01:36:28.830418",
+                "completed": "2024-08-29T13:52:22.446591",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Activate flame chain lightning, activate sonic boomerang, DOUBLE XP upgrade, are not working also",
+                "created": "2024-08-01T01:36:39.994174",
+                "completed": "2024-08-01T02:16:29.978803",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "flametower animation its too big, its  hard to aim the laser with the animation that big, i suggest making it thin",
+                "created": "2024-08-01T01:36:45.194466",
+                "completed": "2024-08-01T01:46:37.460176",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "correct space in vader drone direction",
+                "created": "2024-08-01T01:52:02.212207",
+                "completed": "2024-08-01T01:56:23.183498",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix sonic boomerang",
+                "created": "2024-08-01T02:09:38.845735",
+                "completed": "2024-08-01T02:09:41.118582",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Activate flame chain lightning boost",
+                "created": "2024-08-01T02:16:25.195275",
+                "completed": "2024-08-01T02:16:27.525729",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "implement limit break upgrade",
+                "created": "2024-08-01T02:34:10.376584",
+                "completed": null,
+                "benched": "2024-08-28T18:03:41.107703",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "curbe the speed of upgrades",
+                "created": "2024-08-01T03:19:23.706353",
+                "completed": "2024-08-01T03:19:25.783560",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "I was upgrading randomly and suddenly it levels up repeatedly ",
+                "created": "2024-08-02T00:55:22.186686",
+                "completed": "2024-08-13T17:30:12.330032",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Upon testing, rare asteroids effects is not activated when destroyed by this weapons:",
+                "created": "2024-08-05T10:08:05.803146",
+                "completed": "2024-08-29T00:51:19.892508",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-Death ray",
+                "created": "2024-08-05T10:08:05.835554",
+                "completed": "2024-08-28T01:24:10.058079",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-Nano swarm",
+                "created": "2024-08-05T10:08:05.851645",
+                "completed": "2024-08-29T00:51:18.273274",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "-Chainlightning",
+                "created": "2024-08-05T10:08:05.861376",
+                "completed": "2024-08-28T01:30:20.247691",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "testing environment for various features ",
+                "created": "2024-08-05T10:08:22.741917",
+                "completed": "2024-08-28T18:03:32.134563",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "v opens volume on login",
+                "created": "2024-08-05T10:08:36.590829",
+                "completed": "2024-08-28T17:59:15.363372",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "error on explodingdrone",
+                "created": "2024-08-05T10:10:49.805432",
+                "completed": "2024-08-12T11:29:55.472024",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "lot of the combined powers don't do anything at all.",
+                "created": "2024-08-05T10:16:45.428630",
+                "completed": "2024-08-28T01:22:47.253786",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "(eg. exploding drone, or flaming lighting, or whatnot -- some of them don't seem to have any effect, and you may be asked to 'activate' them multiple levels in a rowyou may be asked to 'activate' them multiple levels in a row ",
+                "created": "2024-08-05T10:16:56.900126",
+                "completed": "2024-08-28T18:00:02.102124",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make ship more visible",
+                "created": "2024-08-05T10:19:19.506966",
+                "completed": "2024-08-30T11:31:24.666428",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "new look feel for island",
+                "created": "2024-08-05T10:21:28.593319",
+                "completed": "2024-08-28T01:20:02.314154",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add acid triple bonus",
+                "created": "2024-08-05T20:06:11.389034",
+                "completed": "2024-08-28T01:24:57.953400",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add freeze triple bonus",
+                "created": "2024-08-05T20:06:18.375147",
+                "completed": "2024-08-28T01:30:37.499428",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix overlap issue",
+                "created": "2024-08-05T21:55:21.474536",
+                "completed": "2024-08-28T01:24:59.311213",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "track upgrade times",
+                "created": "2024-08-05T21:55:33.295988",
+                "completed": "2024-08-28T18:05:33.893489",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "infinite spin bug",
+                "created": "2024-08-09T11:32:08.577967",
+                "completed": "2024-08-13T19:26:00.267349",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "integrate boss tehme",
+                "created": "2024-08-11T20:39:48.029107",
+                "completed": "2024-08-29T13:32:21.287544",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find potato image",
+                "created": "2024-08-11T20:39:55.577912",
+                "completed": "2024-08-29T17:00:33.468591",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "figure out why boomerang mega damage",
+                "created": "2024-08-11T20:40:16.235459",
+                "completed": "2024-08-29T00:57:24.680824",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix gameid error",
+                "created": "2024-08-12T11:29:23.287029",
+                "completed": "2024-08-28T17:59:57.061755",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get playground owkring well",
+                "created": "2024-08-12T11:29:33.818062",
+                "completed": "2024-08-28T01:22:39.471167",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "more boss images",
+                "created": "2024-08-12T11:31:30.065456",
+                "completed": "2024-08-28T17:59:05.470482",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "play with mega upgrades",
+                "created": "2024-08-12T11:31:42.511052",
+                "completed": "2024-08-28T18:03:29.471444",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "space out megaupgrades",
+                "created": "2024-08-12T11:31:46.865949",
+                "completed": "2024-08-28T01:19:50.820568",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consider bringing back store",
+                "created": "2024-08-12T11:31:52.123801",
+                "completed": "2024-08-28T17:59:49.985557",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "style boss images",
+                "created": "2024-08-12T11:51:20.331451",
+                "completed": "2024-08-28T18:03:26.358724",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mega bosses tont reset",
+                "created": "2024-08-12T12:48:09.181751",
+                "completed": "2024-08-28T18:05:16.868226",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mega powrs islands dont reset",
+                "created": "2024-08-12T12:48:13.855677",
+                "completed": "2024-08-28T01:25:14.523453",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "flamethrower length, projectiles, explosions don't reset",
+                "created": "2024-08-12T12:48:20.836677",
+                "completed": "2024-08-28T01:17:39.938108",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "correct area damage",
+                "created": "2024-08-12T16:16:35.149824",
+                "completed": "2024-08-28T01:19:38.328935",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "setup staging environ",
+                "created": "2024-08-13T17:29:32.156933",
+                "completed": "2024-08-28T18:04:01.436751",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "autopilot feature",
+                "created": "2024-08-17T12:02:46.008603",
+                "completed": null,
+                "benched": "2024-08-28T18:03:54.283984",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "We can currently achieve negative scores on the leaderboard (eg. -57,000,000) -- screenshot supplied.",
+                "created": "2024-08-20T05:35:46.429206",
+                "completed": "2024-08-28T19:55:35.256637",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.459967",
+                "completed": "2024-08-28T01:20:45.802398",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Elemental Asteroids do not proc their effect if killed by Death Ray.",
+                "created": "2024-08-20T05:35:46.476579",
+                "completed": "2024-08-28T01:22:58.215225",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.491211",
+                "completed": "2024-08-28T01:20:36.703084",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Clicking Ship Type Still Makes Version Number Disappear",
+                "created": "2024-08-20T05:35:46.504716",
+                "completed": "2024-08-30T11:31:30.283966",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.518342",
+                "completed": "2024-08-28T01:23:58.236312",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Wheel (Enter) Spam",
+                "created": "2024-08-20T05:35:46.531256",
+                "completed": "2024-08-28T17:59:00.044701",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "If you collect a green gem, and then spam ENTER after activation, you can stack lots of FPS-eating animations on top of each-other -- video supplied.",
+                "created": "2024-08-20T05:35:46.544322",
+                "completed": "2024-08-28T18:04:24.915547",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.564365",
+                "completed": "2024-08-28T01:16:46.401007",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Volume Popup during Account Creation",
+                "created": "2024-08-20T05:35:46.577023",
+                "completed": "2024-08-28T01:27:35.392706",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "If you press V, or CTRL-V, a volume popup will appear. This also happens when creating a new account, so if you wish to copy and \"paste\" (CTRL+V) into the information box, the volume popup will appear.",
+                "created": "2024-08-20T05:35:46.590506",
+                "completed": "2024-08-28T01:30:24.390323",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.603780",
+                "completed": "2024-08-28T01:23:54.616959",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "\"Muted\" Still Plays Sounds",
+                "created": "2024-08-20T05:35:46.618100",
+                "completed": "2024-08-28T01:25:06.740321",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "If the game is muted, the \"Alien Spawn\" and \"Game Over\" noises will still play regardless.",
+                "created": "2024-08-20T05:35:46.636189",
+                "completed": "2024-08-28T01:30:56.988750",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.650141",
+                "completed": "2024-08-29T00:37:54.253799",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Increase Drone Damange\u2028The power-up, \"Increase Drone Damange\", is spelled incorrectly. It should be damage rather than damange -- screenshot supplied.",
+                "created": "2024-08-20T05:35:46.663371",
+                "completed": "2024-08-28T01:25:37.811720",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.676618",
+                "completed": "2024-08-28T01:16:53.671760",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Changing Window Size Blacks-out the Battlefield",
+                "created": "2024-08-20T05:35:46.688709",
+                "completed": "2024-09-04T18:35:37.186903",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "During a pause, level-up, wheel (etc), if you change the window size, all asteroids, ships, aliens and other elements will disappear (except for the icons, XP bar and popups).",
+                "created": "2024-08-20T05:35:46.703212",
+                "completed": "2024-09-04T18:35:45.310099",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.715913",
+                "completed": "2024-08-28T01:16:49.366617",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Super-Bosses, Explosions, and Projectiles Carry Over into New Matches\u2028If you play a match, lose, then start another match - explosions and projectiles will carry over into the next match -- video supplied.",
+                "created": "2024-08-20T05:35:46.728670",
+                "completed": "2024-08-28T01:31:28.608239",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.741279",
+                "completed": "2024-08-28T01:23:49.769835",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Changing Window Size Teleports the Ship to the Center",
+                "created": "2024-08-20T05:35:46.754667",
+                "completed": "2024-09-04T18:35:57.652309",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Just like the window-size blackout issue, if you change the window size, the ship will be teleported to the middle of the screen.",
+                "created": "2024-08-20T05:35:46.766605",
+                "completed": "2024-09-04T18:35:59.959139",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.779143",
+                "completed": "2024-08-28T01:14:13.736132",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Nano Swarm - Bots Get Stuck a Lot\u2028Over time, nano-bots will become permanently stuck in place. If the nano bots are capped, then the more that get stuck, the less effective the purchase becomes. However, even if there is no cap, stuck bots are a bit unsightly -- video supplied.",
+                "created": "2024-08-20T05:35:46.791419",
+                "completed": "2024-08-29T13:06:35.894974",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.806347",
+                "completed": "2024-08-28T01:14:00.457064",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Laser Projectiles Still Occasionally Disappear",
+                "created": "2024-08-20T05:35:46.819129",
+                "completed": "2024-08-28T17:59:34.140015",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "While playing, there are frequent moments where laser projectiles will disappear shortly after being fired from the ship. This usually lasts for about 5+ projectiles before going back to normal -- video supplied.",
+                "created": "2024-08-20T05:35:46.863659",
+                "completed": "2024-08-29T00:51:32.076054",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.876821",
+                "completed": "2024-08-28T01:14:22.173389",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Flame Chain Lightning - Can't be Purchased\u2028Buying \"Flame Chain Lightning\" doesn't seem to work. You will also get more opportunities to re-buy the same non-working skill, losing level-ups.",
+                "created": "2024-08-20T05:35:46.888521",
+                "completed": "2024-08-28T17:59:35.560631",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.900371",
+                "completed": "2024-08-28T01:14:26.548709",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Green-Gem Wheel doesn't pause the game.",
+                "created": "2024-08-20T05:35:46.912491",
+                "completed": "2024-08-29T13:06:41.124480",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Quite often, you can pick up a green gem (wheel), but the game doesn't pause, leaving you with a popup window during gameplay. The game will pause if you press \"Activate\", but it can still throw off players.",
+                "created": "2024-08-20T05:35:46.925054",
+                "completed": "2024-08-29T13:06:44.498213",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.936840",
+                "completed": "2024-08-28T01:14:04.023112",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Turning Speed can eventually make the game barely playable. Recommend hard-capping the skill and removing it from the wheel options.",
+                "created": "2024-08-20T05:35:46.948717",
+                "completed": "2024-08-28T01:23:03.735158",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-08-20T05:35:46.960704",
+                "completed": "2024-08-28T01:07:06.645926",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Still too many green gems.",
+                "created": "2024-08-20T05:35:46.975324",
+                "completed": "2024-08-28T01:07:03.030700",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "framerate analyzer",
+                "created": "2024-08-28T13:03:39.776449",
+                "completed": "2024-08-28T17:59:22.492193",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "cap simultaneous explosions",
+                "created": "2024-08-28T13:12:55.304342",
+                "completed": "2024-08-28T17:59:18.496398",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add secondary weapons",
+                "created": "2024-08-28T18:05:45.506621",
+                "completed": "2024-08-29T17:01:50.371820",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix spin to show correct icons",
+                "created": "2024-08-29T00:17:25.610941",
+                "completed": "2024-09-03T18:04:24.859891",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "have freeze make cool effect on frozen asteroids",
+                "created": "2024-08-29T00:17:58.069841",
+                "completed": "2024-08-29T13:32:12.540288",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "draw explosvie rocket",
+                "created": "2024-08-29T13:06:32.561519",
+                "completed": "2024-08-29T13:32:09.872400",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix weird icon increase ",
+                "created": "2024-08-29T13:33:18.712860",
+                "completed": "2024-09-03T18:04:32.766120",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get acid asteroid working again",
+                "created": "2024-08-29T13:37:28.640698",
+                "completed": "2024-08-29T17:00:48.045732",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make bosses come from top middle",
+                "created": "2024-08-29T15:00:40.633708",
+                "completed": "2024-08-29T17:01:44.074714",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "implement ship selection screen with ability to chose secondary",
+                "created": "2024-08-29T17:02:02.839682",
+                "completed": "2024-08-30T11:31:14.928459",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish implementing unlocks",
+                "created": "2024-08-30T11:29:22.508415",
+                "completed": "2024-09-03T09:21:16.286771",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix multiship select",
+                "created": "2024-08-30T13:43:15.401641",
+                "completed": "2024-09-02T11:09:28.584195",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add bomb tracker",
+                "created": "2024-09-02T11:09:25.250655",
+                "completed": "2024-09-03T09:21:11.756056",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add bomb unlocks",
+                "created": "2024-09-02T11:09:36.052201",
+                "completed": "2024-09-03T09:21:14.601532",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix white flashing issue",
+                "created": "2024-09-02T11:09:42.648381",
+                "completed": "2024-09-03T09:21:08.456345",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add laser icon",
+                "created": "2024-09-03T18:04:40.552606",
+                "completed": "2024-09-04T18:36:01.726822",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix boomerang icon",
+                "created": "2024-09-03T18:04:43.720864",
+                "completed": "2024-09-04T10:55:46.077454",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "text blinking alien",
+                "created": "2024-09-03T18:14:14.043212",
+                "completed": "2024-09-03T20:28:18.569035",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add ship icon",
+                "created": "2024-09-03T18:14:16.983167",
+                "completed": "2024-09-04T10:55:43.745536",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "implement simple interface",
+                "created": "2024-09-03T18:14:29.256682",
+                "completed": "2024-09-07T14:57:55.578599",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " block f11",
+                "created": "2024-09-03T18:36:14.299304",
+                "completed": "2024-09-04T18:36:05.414896",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "expand secondary weapon fire",
+                "created": "2024-09-03T18:45:25.854204",
+                "completed": "2024-09-04T10:55:49.688453",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix drone not activating",
+                "created": "2024-09-03T20:27:43.095411",
+                "completed": "2024-09-04T10:55:40.181339",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test blinking alien",
+                "created": "2024-09-03T20:28:17.764686",
+                "completed": "2024-09-04T18:36:06.809562",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make new icons",
+                "created": "2024-09-03T22:09:04.951820",
+                "completed": "2024-09-04T10:55:32.342288",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "\u001b[1;9C\u001b[1;9Cback",
+                "created": "2024-09-04T10:15:13.197385",
+                "completed": "2024-09-04T10:55:29.917487",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get technlogy count to 42",
+                "created": "2024-09-04T11:37:31.459990",
+                "completed": "2024-09-14T11:00:30.528142",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "work on octoboss",
+                "created": "2024-09-04T11:37:34.530323",
+                "completed": "2024-09-04T18:32:57.104596",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "plan to fill out the achievements",
+                "created": "2024-09-04T18:32:55.571199",
+                "completed": "2024-09-09T10:14:23.460172",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "version move to settings",
+                "created": "2024-09-04T18:35:35.737631",
+                "completed": "2024-09-04T18:36:09.872474",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "explosive rocket collison",
+                "created": "2024-09-04T19:08:23.215543",
+                "completed": "2024-09-05T01:08:47.443621",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "put planet in center ",
+                "created": "2024-09-05T02:06:28.731064",
+                "completed": "2024-09-09T10:14:26.170718",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get space floating achievment working",
+                "created": "2024-09-05T02:06:37.191092",
+                "completed": "2024-09-12T10:02:01.284998",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "polygon idea",
+                "created": "2024-09-05T11:32:42.618607",
+                "completed": "2024-09-12T12:51:18.044209",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "side shot",
+                "created": "2024-09-07T14:57:59.609002",
+                "completed": null,
+                "benched": "2024-09-09T10:53:57.955023",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "try dust",
+                "created": "2024-09-07T14:58:04.812400",
+                "completed": "2024-09-12T12:51:14.084588",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "try logo options side by side",
+                "created": "2024-09-07T14:58:21.730923",
+                "completed": "2024-09-12T12:51:24.281776",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix multi megaupgrades",
+                "created": "2024-09-07T14:58:58.998693",
+                "completed": "2024-09-11T10:12:31.892741",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reset uses with each map",
+                "created": "2024-09-08T16:31:09.502981",
+                "completed": "2024-09-12T12:50:57.907803",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send to cg",
+                "created": "2024-09-09T10:05:30.471895",
+                "completed": "2024-09-11T18:49:50.133827",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get bomb looking better",
+                "created": "2024-09-09T10:05:41.194023",
+                "completed": "2024-09-09T10:14:16.088760",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "sound for bomb",
+                "created": "2024-09-09T10:14:00.087255",
+                "completed": "2024-09-12T22:49:55.083686",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "optimize backgrounds",
+                "created": "2024-09-09T10:14:30.440164",
+                "completed": "2024-09-09T11:34:01.553416",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix off center shooting",
+                "created": "2024-09-09T10:15:02.610074",
+                "completed": "2024-09-11T09:37:31.122793",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add space pizza etc to playground",
+                "created": "2024-09-09T10:23:02.936578",
+                "completed": "2024-09-12T17:06:48.725732",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "hire a few more testers for feedback",
+                "created": "2024-09-09T10:25:05.883349",
+                "completed": "2024-09-14T11:00:31.884973",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "disappearing laser issiue",
+                "created": "2024-09-09T10:28:50.992808",
+                "completed": "2024-09-12T17:06:46.263925",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consdier a throttle mode",
+                "created": "2024-09-09T10:39:21.690740",
+                "completed": "2024-09-12T12:50:29.945338",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "firther improve octoboss",
+                "created": "2024-09-09T10:39:44.765446",
+                "completed": "2024-09-12T12:50:26.750261",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "extend area damage to aliens",
+                "created": "2024-09-09T10:53:41.453152",
+                "completed": "2024-09-12T12:50:22.324818",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test and or disable megaupgrades",
+                "created": "2024-09-09T10:53:51.410833",
+                "completed": "2024-09-12T12:50:18.974937",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "set death timer closer to explosoin",
+                "created": "2024-09-09T10:54:50.443673",
+                "completed": "2024-09-09T11:34:04.595943",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add laser level 2",
+                "created": "2024-09-09T11:33:41.572847",
+                "completed": null,
+                "benched": "2024-09-12T22:49:45.418454",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test pixies",
+                "created": "2024-09-11T09:36:24.020937",
+                "completed": "2024-09-12T12:49:47.532287",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test pizza",
+                "created": "2024-09-11T09:36:26.326523",
+                "completed": "2024-09-12T12:49:59.890217",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test pickle",
+                "created": "2024-09-11T09:36:37.738825",
+                "completed": "2024-09-12T22:50:29.806820",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test monkey",
+                "created": "2024-09-11T09:36:40.117099",
+                "completed": "2024-09-13T16:34:48.200100",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test potato",
+                "created": "2024-09-11T09:36:41.729784",
+                "completed": null,
+                "benched": "2024-09-14T11:00:20.991125",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test sonicboom",
+                "created": "2024-09-11T09:36:51.503683",
+                "completed": "2024-09-12T22:49:32.401911",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "area damage kills aliens",
+                "created": "2024-09-11T09:37:19.907410",
+                "completed": "2024-09-12T10:02:06.671174",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "space invaders movement",
+                "created": "2024-09-11T09:37:26.786698",
+                "completed": "2024-09-13T16:34:49.572600",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test chain fo flame",
+                "created": "2024-09-11T10:12:07.557736",
+                "completed": "2024-09-12T22:49:29.184724",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test sonic boom",
+                "created": "2024-09-11T10:12:09.822985",
+                "completed": "2024-09-12T22:49:26.256105",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test laser level 2",
+                "created": "2024-09-11T10:12:15.046558",
+                "completed": null,
+                "benched": "2024-09-12T22:50:12.451977",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test crazygames embed",
+                "created": "2024-09-11T10:25:19.437379",
+                "completed": "2024-09-12T12:51:41.157157",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "work on icons ",
+                "created": "2024-09-11T10:25:29.078218",
+                "completed": "2024-09-12T12:49:31.059999",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add laser icon back",
+                "created": "2024-09-11T18:49:40.851531",
+                "completed": "2024-09-12T12:49:27.791832",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test sdk more",
+                "created": "2024-09-11T18:49:55.665204",
+                "completed": "2024-09-12T12:51:44.076298",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "rename double turret",
+                "created": "2024-09-12T09:29:12.372294",
+                "completed": null,
+                "benched": "2024-09-12T22:50:02.874273",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix monkey",
+                "created": "2024-09-12T17:06:25.653625",
+                "completed": "2024-09-13T16:34:51.123289",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix potato",
+                "created": "2024-09-12T17:06:26.994974",
+                "completed": null,
+                "benched": "2024-09-14T11:00:25.096662",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix darkside",
+                "created": "2024-09-12T17:06:28.890543",
+                "completed": "2024-09-12T22:50:19.739946",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "darkside lock",
+                "created": "2024-09-12T17:06:38.283740",
+                "completed": "2024-09-12T22:49:50.687713",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "pickle lock",
+                "created": "2024-09-12T17:06:40.902299",
+                "completed": "2024-09-12T22:50:24.436567",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "v4",
+                "created": "2024-09-12T22:49:41.516539",
+                "completed": "2024-09-12T22:49:47.620499",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix newly unlocked achievements showing",
+                "created": "2024-09-12T22:50:52.837249",
+                "completed": "2024-09-12T23:13:29.912817",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "megaboss collision issue",
+                "created": "2024-09-12T23:05:53.434838",
+                "completed": "2024-09-13T16:34:52.409760",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "change cluster icon",
+                "created": "2024-09-13T09:08:27.742751",
+                "completed": "2024-09-14T11:00:26.857797",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "chain of flame not unlocking",
+                "created": "2024-09-13T12:20:20.280528",
+                "completed": "2024-09-13T16:34:54.229252",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "alien carrying over to new match",
+                "created": "2024-09-13T12:20:40.562240",
+                "completed": "2024-09-14T11:00:28.820632",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "double turret icon",
+                "created": "2024-09-13T12:20:50.040688",
+                "completed": "2024-09-13T16:24:11.810773",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "cluster bomb icon",
+                "created": "2024-09-13T12:20:54.284854",
+                "completed": "2024-09-13T16:24:10.572372",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "triple turret icon",
+                "created": "2024-09-13T12:21:00.603846",
+                "completed": "2024-09-13T16:24:09.148736",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "debug QA tool end of file error",
+                "created": "2024-09-13T12:21:36.678061",
+                "completed": "2024-09-14T11:00:33.349792",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "first level up doesnt pause",
+                "created": "2024-09-14T00:06:36.261590",
+                "completed": "2024-09-14T11:00:35.263980",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make list of bizarre unsolved bugs (negative score, etc)",
+                "created": "2024-09-14T10:15:33.926173",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix weird icon upgrade bug",
+                "created": "2024-09-14T10:15:40.654922",
+                "completed": "2024-09-15T13:06:06.241907",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix login flow to display errors and close",
+                "created": "2024-09-14T11:00:44.346799",
+                "completed": "2024-09-14T11:00:46.718165",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "gid rid of extra icon for laser",
+                "created": "2024-09-14T11:03:10.969037",
+                "completed": "2024-09-15T13:06:08.254876",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "still some werid background game running",
+                "created": "2024-09-14T11:05:59.998884",
+                "completed": "2024-09-15T13:06:10.485355",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "",
+                "created": "2024-09-14T11:06:01.055580",
+                "completed": "2024-09-14T11:06:03.370681",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "end screen display issue on small height",
+                "created": "2024-09-14T11:06:30.593773",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consdier ad embed",
+                "created": "2024-09-14T12:48:45.844334",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "green bar no obvious",
+                "created": "2024-09-14T13:05:21.599776",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Change the flamethrower SFX.",
+                "created": "2024-09-15T12:41:27.422111",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Provide more information for certain achievements. (i.e. wave)",
+                "created": "2024-09-15T12:41:49.748200",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Make the enemy projectiles easier to see.",
+                "created": "2024-09-15T12:41:55.756630",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Set a minimum size for the asteroids.",
+                "created": "2024-09-15T12:42:00.233816",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Adjust the EXP pickups to be more intuitive.",
+                "created": "2024-09-15T12:42:08.220075",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Add a progression bar to all the achievements.",
+                "created": "2024-09-15T12:42:15.180281",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Achievement pages in the \u201cMy Achievements\u201d UI seem to disappear.",
+                "created": "2024-09-15T12:42:31.340382",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "The volume settings do not persist through page refresh.",
+                "created": "2024-09-15T12:42:36.762444",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Ship would switch to the \u201cBasic\u201d ship after getting an upgrade",
+                "created": "2024-09-15T12:42:52.610899",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "You stop earning EXP from destroying asteroids and collecting EXP drops.",
+                "created": "2024-09-15T12:42:57.741418",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "The \u201cActivate [Enter]\u201d gift UI gets disabled upon movement.",
+                "created": "2024-09-15T12:43:02.236596",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "integrate discord ",
+                "created": "2024-09-15T13:06:53.105052",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ship switch on wave 10",
+                "created": "2024-09-15T13:07:08.927512",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "extra weapon over weapon count",
+                "created": "2024-09-15T13:07:23.677838",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "weird icon for drone army",
+                "created": "2024-09-15T13:07:28.713692",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "separate sign up login panels",
+                "created": "2024-09-15T13:08:05.402532",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "spin can be broken with movement ",
+                "created": "2024-09-15T13:08:15.456582",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile phone system tricky",
+                "created": "2024-09-15T13:08:25.269909",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "leaderboard doesn't immediately include new score",
+                "created": "2024-09-15T13:09:38.268491",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add deep space description to achievemetns that don't have it",
+                "created": "2024-09-15T13:10:03.132226",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "open .",
+                "created": "2024-09-15T13:19:56.062695",
+                "completed": "2024-09-15T13:19:58.677389",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
             }
         ],
         "cnfb": [
@@ -3018,7 +5548,7 @@
             {
                 "task": "add fb logic",
                 "created": "2024-07-26T12:54:31.185023",
-                "completed": null,
+                "completed": "2024-08-13T18:46:29.018762",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -3098,7 +5628,7 @@
             {
                 "task": "flip top pipes",
                 "created": "2024-07-29T16:21:28.635353",
-                "completed": null,
+                "completed": "2024-08-13T18:46:23.632816",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -3108,7 +5638,7 @@
             {
                 "task": "populate fake leaderboard",
                 "created": "2024-07-29T16:21:38.102783",
-                "completed": null,
+                "completed": "2024-08-13T18:46:30.114481",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -3118,6 +5648,46 @@
             {
                 "task": "have serhii setup endpoint",
                 "created": "2024-07-29T16:21:46.426191",
+                "completed": "2024-08-13T18:46:20.923683",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "integrate new stylesheet and updates",
+                "created": "2024-08-13T18:46:41.335066",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 2319.777878
+            },
+            {
+                "task": "stop 2",
+                "created": "2024-08-13T19:25:11.125185",
+                "completed": "2024-08-13T19:25:24.888738",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "new integreations",
+                "created": "2024-08-13T19:39:39.660647",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 2985.286485
+            },
+            {
+                "task": "fix resolution issue",
+                "created": "2024-08-17T14:54:14.476716",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -3318,7 +5888,7 @@
             {
                 "task": "mahler 1",
                 "created": "2024-07-29T17:29:34.984942",
-                "completed": null,
+                "completed": "2024-08-12T11:10:46.489815",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -3333,7 +5903,7 @@
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
-                "time_spent": 0
+                "time_spent": 166775.216697
             },
             {
                 "task": "mahler 3",
@@ -3388,6 +5958,230 @@
             {
                 "task": "mahgler 6",
                 "created": "2024-07-30T10:28:37.808969",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mahler 4",
+                "created": "2024-07-31T18:54:13.156978",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mahler 5",
+                "created": "2024-07-31T18:54:15.304887",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Ravel - Daphnis et Chlo\u00e9",
+                "created": "2024-08-12T09:51:03.262696",
+                "completed": "2024-08-12T11:10:42.523896",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " beethoven 8",
+                "created": "2024-09-04T10:15:28.049772",
+                "completed": "2024-09-04T15:44:01.238361",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " beethoven 4",
+                "created": "2024-09-04T15:43:58.517043",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            }
+        ],
+        "agents": [
+            {
+                "task": "toy model",
+                "created": "2024-07-31T17:16:33.993611",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "snapshots",
+                "created": "2024-07-31T17:16:37.967700",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send to ulf for feedback",
+                "created": "2024-07-31T18:49:05.521704",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "jj gets compute",
+                "created": "2024-07-31T18:49:12.925814",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            }
+        ],
+        "books": [
+            {
+                "task": "dracula",
+                "created": "2024-08-21T18:25:25.126215",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Consider Phlebas",
+                "created": "2024-08-21T18:25:46.330853",
+                "completed": "2024-08-25T20:46:10.930011",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Argonautica",
+                "created": "2024-08-21T18:26:21.854648",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Meyrink Golem",
+                "created": "2024-08-28T13:18:50.231915",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ls",
+                "created": "2024-08-28T13:43:18.412460",
+                "completed": "2024-08-28T13:43:22.373350",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "faivre vampires",
+                "created": "2024-08-28T13:43:29.365059",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Shockwave Rider",
+                "created": "2024-08-28T14:44:07.502380",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "hitchhiker",
+                "created": "2024-08-29T17:02:58.555647",
+                "completed": "2024-09-02T11:01:31.391156",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Everybody - Olivia Laing",
+                "created": "2024-09-02T11:01:26.747015",
+                "completed": "2024-09-03T09:25:18.793092",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "restaurant",
+                "created": "2024-09-03T09:25:16.460101",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Permutation City",
+                "created": "2024-09-03T09:27:00.758652",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Vance",
+                "created": "2024-09-15T12:46:37.697246",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Moshe Idel Golem",
+                "created": "2024-09-15T12:47:36.419119",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
