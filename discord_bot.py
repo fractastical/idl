@@ -197,6 +197,79 @@ async def complete_todo(ctx, index: int):
     else:
         await ctx.send("Invalid index.")
 
+@bot.command(name='verify')
+@commands.check(check_channel)
+async def verify_completed_task(ctx, index: int):
+    todos = load_todos()
+    todo_list = todos["subcategories"][SUBCATEGORY]
+    
+    # Filter completed tasks
+    completed_tasks = [todo for todo in todo_list if todo.get('completed')]
+    
+    if 0 < index <= len(completed_tasks):
+        task = completed_tasks[index - 1]
+        
+        # Initialize verifications field if not present
+        if 'verifications' not in task:
+            task['verifications'] = []
+            task['verification_count'] = 0
+        
+        # Check if the user has already verified the task
+        verifier_id = str(ctx.author.id)
+        if verifier_id in [v['id'] for v in task['verifications']]:
+            await ctx.send(f"{ctx.author.name}, you have already verified this task.")
+            return
+        
+        # Add the verification
+        task['verifications'].append({
+            'id': verifier_id,
+            'name': ctx.author.name,
+            'verified_at': datetime.datetime.now().isoformat()
+        })
+        task['verification_count'] += 1
+        save_todos(todos)
+        
+        await ctx.send(f"{ctx.author.name} has verified task {index}. Total verifications: {task['verification_count']}")
+    else:
+        await ctx.send("Invalid task index. Please provide a valid number from the list of completed tasks.")
+
+@bot.command(name='verified')
+@commands.check(check_channel)
+async def list_verified_tasks(ctx):
+    todos = load_todos()
+    todo_list = todos["subcategories"][SUBCATEGORY]
+    
+    # Filter completed tasks that have been verified
+    verified_tasks = [todo for todo in todo_list if todo.get('completed') and todo.get('verification_count', 0) > 0]
+    
+    if not verified_tasks:
+        await ctx.send("There are no verified tasks.")
+        return
+
+    # Function to format the task with verification info
+    def format_task(idx, todo):
+        verifiers = ", ".join([v['name'] for v in todo['verifications']])
+        return f"{idx + 1}. {todo['task']} (Verified by: {verifiers}, Total Verifications: {todo['verification_count']})"
+
+    # Create paginated responses
+    responses = []
+    current_response = "Verified Completed Tasks:\n"
+    
+    for idx, todo in enumerate(verified_tasks):
+        task_str = format_task(idx, todo) + "\n"
+        if len(current_response) + len(task_str) > 1900:
+            responses.append(current_response)
+            current_response = task_str
+        else:
+            current_response += task_str
+    
+    if current_response:
+        responses.append(current_response)
+
+    # Send paginated responses
+    for idx, response in enumerate(responses):
+        await ctx.send(f"Page {idx+1}/{len(responses)}:\n{response}")
+
 @bot.command(name='start')
 @commands.check(check_channel)
 async def start_todo(ctx, index: int):

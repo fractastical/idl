@@ -2981,7 +2981,15 @@
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
-                "time_spent": 0
+                "time_spent": 0,
+                "verifications": [
+                    {
+                        "id": "667049341566976000",
+                        "name": "_la.lalala_",
+                        "verified_at": "2024-09-16T20:21:50.746423"
+                    }
+                ],
+                "verification_count": 1
             },
             {
                 "task": "It's extremely difficult to go beyond wave 10 on \"Planet: Hard\", even when using one of the two non-default ships. As a result, some achievements/weapons are perma-locked",
@@ -2991,7 +2999,15 @@
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
-                "time_spent": 0
+                "time_spent": 0,
+                "verifications": [
+                    {
+                        "id": "995479263354564649",
+                        "name": "multiversaljoel",
+                        "verified_at": "2024-09-16T20:18:04.682333"
+                    }
+                ],
+                "verification_count": 1
             },
             {
                 "task": "new icons",
@@ -3051,7 +3067,15 @@
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
-                "time_spent": 0
+                "time_spent": 0,
+                "verifications": [
+                    {
+                        "id": "667049341566976000",
+                        "name": "_la.lalala_",
+                        "verified_at": "2024-09-16T20:21:06.324928"
+                    }
+                ],
+                "verification_count": 1
             },
             {
                 "task": "no secret unlock",
@@ -5538,7 +5562,7 @@
             {
                 "task": "mobile phone system tricky",
                 "created": "2024-09-15T13:08:25.269909",
-                "completed": null,
+                "completed": "2024-09-16T13:48:31.590905",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5820,6 +5844,196 @@
             {
                 "task": "mobile fps",
                 "created": "2024-09-16T00:33:21.515469",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile health bars in portrait",
+                "created": "2024-09-16T11:32:49.761385",
+                "completed": "2024-09-16T11:36:35.866192",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "health alignment",
+                "created": "2024-09-16T11:36:32.197194",
+                "completed": "2024-09-16T11:36:33.778376",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add crazygames to firestore",
+                "created": "2024-09-16T12:31:07.483934",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "figure out how to bring back down arrow",
+                "created": "2024-09-16T12:45:01.287125",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "logout message collision",
+                "created": "2024-09-16T13:14:17.556769",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "HIGH - damage report bug",
+                "created": "2024-09-16T13:47:25.112519",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "HIGH - end screen scroll",
+                "created": "2024-09-16T13:47:37.829400",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "HIGH - spin bug",
+                "created": "2024-09-16T13:48:27.472135",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "HIGH - auth test crazy games",
+                "created": "2024-09-16T13:49:01.158411",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "HIGH - user id persist crazygames",
+                "created": "2024-09-16T13:49:10.408760",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "clearer activate",
+                "created": "2024-09-16T15:05:58.318375",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "\u2022The main page looks different after you play your first game, which is kinda unusual",
+                "created": "2024-09-16T15:06:12.543021",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "why the scroll on my mouse is not working on the scroll bar",
+                "created": "2024-09-16T15:06:39.561681",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "double logout even when not logged in",
+                "created": "2024-09-16T15:06:53.803162",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "There\u2019s a delay or sometimes it\u2019s not working when clicking the leaderboards",
+                "created": "2024-09-16T15:11:12.169157",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "\u2022The raffle part when in-game, maybe there\u2019s a better UI for that to be eye pleasing",
+                "created": "2024-09-16T15:11:29.255304",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "force pause for spinner",
+                "created": "2024-09-16T15:16:33.670510",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "remove extra fields from achievmetns save",
+                "created": "2024-09-16T19:47:07.626688",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add automatic retry with leaderbaord",
+                "created": "2024-09-16T20:24:56.507505",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
