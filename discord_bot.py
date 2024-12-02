@@ -15,10 +15,10 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Specify the subcategory to use
-SUBCATEGORY = 'ia'
+SUBCATEGORY = 'ipe'
 
 # Specify the channel name where the bot should work
-CHANNEL_NAME = 'feedback'
+CHANNEL_NAME = 'engine'
 
 # Function to check if the command is used in the correct channel
 def check_channel(ctx):

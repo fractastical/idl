@@ -14,16 +14,25 @@ def migrate_todo_data():
             data = json.load(file)
         if isinstance(data, list):
             # Old format detected, migrate to new format
-            new_data = {"subcategories": {"default": data}}
+            new_data = {
+                "subcategories": {"default": data},
+                "benched_categories": []
+            }
             save_todos(new_data)
             print("Migrated old to-do list format to new subcategory format.")
         elif isinstance(data, dict) and "subcategories" in data:
+            if "benched_categories" not in data:
+                data["benched_categories"] = []
+                save_todos(data)
             print("To-do list is already in the new format.")
         else:
             print("Unknown format, please check the data manually.")
     else:
         # No existing file, create a new structure
-        save_todos({"subcategories": {"default": []}})
+        save_todos({
+            "subcategories": {"default": []},
+            "benched_categories": []
+        })
         print("Initialized new to-do list structure.")
 
 def initialize_task_fields(todos):
@@ -44,7 +53,7 @@ def load_todos():
             todos = json.load(file)
         todos = initialize_task_fields(todos)
         return todos
-    return initialize_task_fields({"subcategories": {"default": []}})
+    return initialize_task_fields({"subcategories": {"default": []}, "benched_categories": []})
 
 def load_ideas():
     if os.path.exists(IDEAS_FILE):
@@ -64,8 +73,22 @@ def display_subcategories(todos):
     print("\nSubcategories:")
     subcategories = list(todos["subcategories"].keys())
     for idx, subcategory in enumerate(subcategories):
-        num_items = sum(1 for task in todos["subcategories"][subcategory] if not task.get('completed'))
-        print(f"{idx + 1}. {subcategory} ({num_items} undone items)")
+        if subcategory not in todos.get("benched_categories", []):
+            active_items = sum(1 for task in todos["subcategories"][subcategory] 
+                             if not task.get('completed'))
+            non_benched_items = sum(1 for task in todos["subcategories"][subcategory] 
+                                  if not task.get('completed') and not task.get('benched'))
+            print(f"{idx + 1}. {subcategory} ({non_benched_items} active, {active_items} total)")
+    
+    # Display benched categories separately
+    benched_cats = todos.get("benched_categories", [])
+    if benched_cats:
+        print("\nBenched Categories:")
+        for idx, subcategory in enumerate(benched_cats):
+            if subcategory in todos["subcategories"]:
+                active_items = sum(1 for task in todos["subcategories"][subcategory] 
+                                 if not task.get('completed'))
+                print(f"{idx + 1}. {subcategory} ({active_items} items)")
     print()
     return subcategories
 
@@ -157,6 +180,29 @@ def bench_todo_item(index, displayed_todos, subcategory):
     else:
         print("Invalid index.")
 
+def bench_category(subcategory):
+    todos = load_todos()
+    if subcategory in todos["subcategories"]:
+        if subcategory not in todos.get("benched_categories", []):
+            if "benched_categories" not in todos:
+                todos["benched_categories"] = []
+            todos["benched_categories"].append(subcategory)
+            save_todos(todos)
+            print(f"Benched category '{subcategory}'.")
+        else:
+            print(f"Category '{subcategory}' is already benched.")
+    else:
+        print(f"Category '{subcategory}' does not exist.")
+
+def unbench_category(subcategory):
+    todos = load_todos()
+    if subcategory in todos.get("benched_categories", []):
+        todos["benched_categories"].remove(subcategory)
+        save_todos(todos)
+        print(f"Unbenched category '{subcategory}'.")
+    else:
+        print(f"Category '{subcategory}' is not benched.")
+
 def unbench_todo_item(index, displayed_todos, subcategory):
     todos = load_todos()
     if 0 <= index < len(displayed_todos):
@@ -246,7 +292,7 @@ def main():
         if current_subcategory is None:
             todos = load_todos()
             subcategories = display_subcategories(todos)
-            user_input = input("Enter the number of a subcategory to view its to-do list, 'create' followed by subcategory name to create a new subcategory, 'r NUMBER' followed by subcategory to view recently completed items, or 'q' to quit: ")
+            user_input = input("Enter the number of a subcategory to view its to-do list, 'create' followed by subcategory name to create a new subcategory, 'bench' followed by category name to bench a category, 'unbench' followed by category name to unbench a category, 'r NUMBER' followed by subcategory to view recently completed items, or 'q' to quit: ")
         else:
             if in_ideas:
                 ideas = load_ideas()
@@ -258,13 +304,16 @@ def main():
                 if show_benched:
                     user_input = input("Benched view - Enter the number of an item to unbench it, or 'v' to view main list (or 'q' to quit): ")
                 else:
-                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' or 'm ' followed by the number and subcategory to move an item (e.g., 'move 3 ia' or 'm 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
+                    user_input = input(f"Enter a new to-do item, the number of an item to mark it as complete, 'b ' followed by the number of an item to bench it, 'i' to view ideas, 'v' to view benched items, 'move' or 'm ' followed by the number and subcategory to move an item (e.g., 'move 3 ia' or 'm 3 ia'), 'start' followed by the number to start an item in progress, 'stop' to stop the current in progress item, or 'back' to go back to subcategories (or 'q' to quit): ")
 
         if user_input.lower() == 'q':
             break
-        elif user_input.lower().startswith('create') and current_subcategory is None:
-            _, subcategory = user_input.split(' ', 1)
-            create_subcategory(subcategory)
+        elif user_input.lower().startswith('bench ') and current_subcategory is None:
+            _, category = user_input.split(' ', 1)
+            bench_category(category)
+        elif user_input.lower().startswith('unbench ') and current_subcategory is None:
+            _, category = user_input.split(' ', 1)
+            unbench_category(category)
         elif user_input.lower() == 'back' and current_subcategory is not None:
             current_subcategory = None
         elif user_input.lower() == 'v' and not in_ideas:
@@ -285,9 +334,9 @@ def main():
                     unbench_todo_item(index, displayed_todos, current_subcategory)
                 else:
                     mark_todo_complete(index, displayed_todos, current_subcategory)
-        elif user_input.lower().startswith('b') and not in_ideas:
+        elif user_input.lower().startswith('b ') and not in_ideas:
             try:
-                index = int(user_input[1:]) - 1
+                index = int(user_input[2:]) - 1
                 bench_todo_item(index, displayed_todos, current_subcategory)
             except ValueError:
                 print("Invalid input for benching an item.")
@@ -318,12 +367,15 @@ def main():
                 display_recently_completed(todos, subcategory, number_of_tasks)
             except ValueError:
                 print("Invalid input for viewing recently completed items.")
+        elif user_input.lower().startswith('create ') and current_subcategory is None:
+            _, subcategory = user_input.split(' ', 1)
+            create_subcategory(subcategory)
         elif not in_ideas:
             add_todo(user_input, current_subcategory)
-            displayed_todos = display_todos(load_todos(), current_subcategory, show_benched)  # Display the updated list after adding a new item
+            displayed_todos = display_todos(load_todos(), current_subcategory, show_benched)
         else:
             add_idea(user_input)
-            display_ideas(load_ideas())  # Display the updated list after adding a new idea
+            display_ideas(load_ideas())
 
 if __name__ == "__main__":
     main()
