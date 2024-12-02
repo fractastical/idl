@@ -334,7 +334,7 @@
             {
                 "task": "make list of 'heroes' ",
                 "created": "2024-06-17T11:35:32.355109",
-                "completed": null,
+                "completed": "2024-12-02T12:50:13.766819",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -1954,7 +1954,7 @@
             {
                 "task": "facebook post",
                 "created": "2024-07-21T12:35:09.139772",
-                "completed": null,
+                "completed": "2024-09-27T19:25:48.891907",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2504,7 +2504,7 @@
             {
                 "task": "retropi plan",
                 "created": "2024-07-31T15:55:33.605610",
-                "completed": null,
+                "completed": "2024-10-07T11:21:38.400483",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2525,7 +2525,7 @@
                 "task": "finish linear algebra textbook",
                 "created": "2024-07-31T20:23:07.561481",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-10-21T16:12:03.554109",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2624,7 +2624,7 @@
             {
                 "task": "only show non benched titles in top level summary",
                 "created": "2024-08-12T09:46:56.001863",
-                "completed": null,
+                "completed": "2024-12-02T13:31:44.556753",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2714,7 +2714,7 @@
             {
                 "task": "remove benched items from totals in idl",
                 "created": "2024-08-25T20:46:37.387842",
-                "completed": null,
+                "completed": "2024-12-02T13:32:16.291416",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2834,7 +2834,7 @@
             {
                 "task": "fix \"b\" bug ",
                 "created": "2024-09-04T10:15:44.547977",
-                "completed": null,
+                "completed": "2024-12-02T13:31:42.472775",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2854,7 +2854,7 @@
             {
                 "task": "key ",
                 "created": "2024-09-06T11:49:03.124148",
-                "completed": null,
+                "completed": "2024-09-19T00:07:56.670539",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2864,7 +2864,7 @@
             {
                 "task": "review cpa",
                 "created": "2024-09-06T14:00:26.782231",
-                "completed": null,
+                "completed": "2024-09-27T19:26:07.533169",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2874,7 +2874,7 @@
             {
                 "task": "plant app",
                 "created": "2024-09-06T20:55:36.215266",
-                "completed": null,
+                "completed": "2024-09-27T19:26:04.555350",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2895,7 +2895,7 @@
                 "task": "finish wim hof report",
                 "created": "2024-09-11T09:37:48.381536",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-12-02T14:36:44.213408",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2905,7 +2905,7 @@
                 "task": "write darkside of daodejing",
                 "created": "2024-09-14T12:29:21.350034",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-10-07T11:40:44.846806",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2915,7 +2915,7 @@
                 "task": "endogenous DMT list ",
                 "created": "2024-09-15T14:22:10.783251",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-12-02T14:36:45.839318",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -2924,7 +2924,7 @@
             {
                 "task": "try bank login again ",
                 "created": "2024-09-15T14:22:37.623655",
-                "completed": null,
+                "completed": "2024-09-21T16:22:42.568116",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2934,7 +2934,7 @@
             {
                 "task": "review dutch plan",
                 "created": "2024-09-15T14:22:42.969286",
-                "completed": null,
+                "completed": "2024-10-07T11:21:32.818839",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -2944,6 +2944,1016 @@
             {
                 "task": "send mb gaia compute plan",
                 "created": "2024-09-15T14:22:59.348086",
+                "completed": null,
+                "benched": "2024-10-07T11:29:39.728102",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review final bug and feature list for ia",
+                "created": "2024-09-17T09:41:21.857572",
+                "completed": "2024-09-19T00:07:45.000887",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send ia to cg",
+                "created": "2024-09-17T09:41:26.130851",
+                "completed": "2024-09-21T13:04:57.019406",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reduce gem frequency late game",
+                "created": "2024-09-17T09:47:57.794276",
+                "completed": "2024-09-17T09:57:02.248111",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "prompt logger",
+                "created": "2024-09-18T15:29:32.242542",
+                "completed": "2024-10-07T11:21:26.582734",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send spotify account to some folks",
+                "created": "2024-09-18T15:38:06.086683",
+                "completed": "2024-10-07T17:41:32.047036",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reach out to artists i know about tech stuff",
+                "created": "2024-09-21T13:02:10.988226",
+                "completed": "2024-10-07T17:41:28.747076",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "list try bank login again",
+                "created": "2024-09-21T13:04:43.674452",
+                "completed": "2024-09-21T16:19:04.558383",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "check all vr headsets",
+                "created": "2024-09-21T13:12:19.824973",
+                "completed": null,
+                "benched": "2024-10-21T16:11:26.762281",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test arcade games",
+                "created": "2024-09-21T13:12:36.291520",
+                "completed": "2024-09-21T15:41:19.517806",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "research codependency",
+                "created": "2024-09-21T13:17:59.543945",
+                "completed": "2024-10-07T11:40:40.190619",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "look for more furniture",
+                "created": "2024-09-21T13:18:02.427078",
+                "completed": "2024-09-21T15:41:17.126426",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reach out to levin",
+                "created": "2024-09-21T15:41:27.958130",
+                "completed": "2024-09-21T16:18:53.440538",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reach out to godwin",
+                "created": "2024-09-21T15:41:31.059620",
+                "completed": "2024-09-21T16:18:51.995656",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reach out to woter",
+                "created": "2024-09-21T15:41:33.420688",
+                "completed": "2024-09-21T16:18:49.569151",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find ice",
+                "created": "2024-09-21T15:41:42.938548",
+                "completed": null,
+                "benched": "2024-10-21T16:11:31.993258",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consider active inference cohort",
+                "created": "2024-09-21T15:50:43.059158",
+                "completed": "2024-10-02T18:58:52.497149",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "look at uva courses",
+                "created": "2024-09-21T16:18:44.373528",
+                "completed": "2024-10-07T17:41:25.539629",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "rereach out to levin after oct2",
+                "created": "2024-09-21T16:19:01.732902",
+                "completed": "2024-10-21T16:11:35.355781",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find some cool artists vjs etc in amsterdam",
+                "created": "2024-09-21T16:19:27.415786",
+                "completed": "2024-10-07T11:40:34.369707",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reach out to singer",
+                "created": "2024-09-21T16:19:34.433911",
+                "completed": null,
+                "benched": "2024-10-12T12:48:50.416338",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "schedule meeting with andreas",
+                "created": "2024-09-21T16:33:28.349984",
+                "completed": "2024-10-02T18:58:10.972278",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "try to setup meeting wiwth arthur mm",
+                "created": "2024-09-21T16:33:36.048532",
+                "completed": "2024-10-07T17:41:39.696758",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make plan for studying category theory, active inference",
+                "created": "2024-09-21T16:34:35.595719",
+                "completed": null,
+                "benched": "2024-10-07T11:21:11.967071",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make plan for book time",
+                "created": "2024-09-23T09:26:32.507182",
+                "completed": "2024-10-07T11:21:19.352875",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "plan with richard",
+                "created": "2024-09-23T09:26:40.917904",
+                "completed": "2024-10-07T11:21:16.500589",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write the king",
+                "created": "2024-09-23T09:28:32.988884",
+                "completed": null,
+                "benched": "2024-10-21T16:11:38.588510",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ai reserach plan",
+                "created": "2024-09-23T09:37:29.872986",
+                "completed": "2024-09-27T19:26:21.740112",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make list of possible games ",
+                "created": "2024-09-23T09:37:34.699179",
+                "completed": "2024-10-07T17:41:42.754527",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "consider 24",
+                "created": "2024-09-23T09:47:21.013945",
+                "completed": "2024-10-07T11:29:31.693595",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " be able to move or bench a whole sub category",
+                "created": "2024-09-24T08:19:34.625775",
+                "completed": "2024-12-02T13:31:39.101979",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ping es devlin",
+                "created": "2024-09-24T08:51:39.886920",
+                "completed": "2024-10-07T17:41:48.500254",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make video demo reel",
+                "created": "2024-09-24T08:53:37.156428",
+                "completed": null,
+                "benched": "2024-10-21T16:11:23.495251",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "accounting",
+                "created": "2024-09-29T11:06:00.744900",
+                "completed": "2024-10-21T16:11:19.932955",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write on kink",
+                "created": "2024-10-01T11:47:15.382634",
+                "completed": "2024-10-07T15:13:47.938882",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "california mythic",
+                "created": "2024-10-02T18:16:06.596001",
+                "completed": null,
+                "benched": "2024-11-01T11:53:01.669033",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " 28",
+                "created": "2024-10-02T18:58:04.657690",
+                "completed": "2024-10-07T11:21:03.887423",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write up everything list",
+                "created": "2024-10-07T11:20:36.911093",
+                "completed": "2024-10-07T17:41:51.624283",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "put s weeney on schedule",
+                "created": "2024-10-07T11:40:19.963432",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "order new poets",
+                "created": "2024-10-07T11:40:27.402284",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " add double bot",
+                "created": "2024-10-07T11:57:18.338991",
+                "completed": "2024-10-07T17:42:00.018217",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "look at porting SNKRX to roblox",
+                "created": "2024-10-07T12:29:31.753349",
+                "completed": null,
+                "benched": "2024-10-07T15:13:42.197292",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "outline substack",
+                "created": "2024-10-07T13:11:41.270181",
+                "completed": null,
+                "benched": "2024-10-21T16:11:49.567080",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make notes doc for new game ideas",
+                "created": "2024-10-07T14:54:36.509879",
+                "completed": "2024-10-07T17:42:01.074208",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "i 28",
+                "created": "2024-10-07T15:13:17.397668",
+                "completed": null,
+                "benched": "2024-10-07T15:13:39.239032",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "b 16",
+                "created": "2024-10-07T17:41:11.764567",
+                "completed": "2024-10-07T17:41:20.106020",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish flappy ",
+                "created": "2024-10-08T11:07:04.568487",
+                "completed": "2024-10-21T16:11:13.439285",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "figure out ballot situatino",
+                "created": "2024-10-09T11:51:53.140739",
+                "completed": "2024-10-25T12:14:01.080523",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "message sandy about cp",
+                "created": "2024-10-12T12:27:18.325107",
+                "completed": "2024-10-21T16:11:09.208213",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "follow up on peace tech",
+                "created": "2024-10-12T12:27:22.519597",
+                "completed": null,
+                "benched": "2024-10-26T17:00:29.538733",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find sb email",
+                "created": "2024-10-12T12:27:33.674575",
+                "completed": "2024-10-21T16:11:03.885072",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "hire mobile testers",
+                "created": "2024-10-12T12:43:18.078111",
+                "completed": "2024-10-21T16:10:58.646878",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send Gita book outline",
+                "created": "2024-10-12T12:53:23.184107",
+                "completed": "2024-10-21T16:10:47.666470",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find way to do more structured study of things",
+                "created": "2024-10-12T12:54:06.587654",
+                "completed": "2024-10-21T16:10:45.324636",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "interview CSS mobile folks",
+                "created": "2024-10-12T12:59:07.359126",
+                "completed": "2024-10-21T16:10:54.127997",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write steve jacson email",
+                "created": "2024-10-12T13:23:06.646236",
+                "completed": "2024-10-14T13:56:34.663035",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "i ",
+                "created": "2024-10-12T13:31:31.668160",
+                "completed": "2024-10-14T13:56:33.346864",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write up home decor tasks",
+                "created": "2024-10-15T11:58:03.078373",
+                "completed": "2024-12-02T12:57:57.927076",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "flowers",
+                "created": "2024-10-21T23:20:03.317032",
+                "completed": "2024-10-25T12:13:58.353601",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish alchemy game designs",
+                "created": "2024-10-22T10:45:12.022143",
+                "completed": "2024-10-28T13:51:17.181379",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "cherry swag",
+                "created": "2024-10-22T12:17:36.503831",
+                "completed": null,
+                "benched": "2024-11-01T11:52:57.666532",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "sign tax stuff ",
+                "created": "2024-10-22T12:17:42.470596",
+                "completed": "2024-10-27T13:30:11.757712",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reconsider 42 deck",
+                "created": "2024-10-22T14:05:34.342023",
+                "completed": null,
+                "benched": "2024-12-02T14:10:03.199762",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "follow up with stargate",
+                "created": "2024-10-22T14:12:10.307249",
+                "completed": "2024-10-26T17:00:13.626242",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "road to ia2",
+                "created": "2024-10-22T14:59:41.674827",
+                "completed": "2024-10-26T17:00:09.197903",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "STO quote",
+                "created": "2024-10-25T12:37:26.953100",
+                "completed": "2024-10-26T17:00:12.067012",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "accounitng / pay fF",
+                "created": "2024-10-26T17:00:05.817541",
+                "completed": "2024-12-02T12:56:51.566178",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "go thorugh mail for stargate stuff",
+                "created": "2024-10-26T17:00:17.793974",
+                "completed": "2024-12-02T12:56:45.503486",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "figure out how to get gov the birth certificate",
+                "created": "2024-10-26T17:00:23.509559",
+                "completed": "2024-11-01T11:52:43.706710",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "put all pieces for golem in spreadsheet",
+                "created": "2024-10-27T13:30:05.512022",
+                "completed": "2024-10-28T14:14:28.918100",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "clean",
+                "created": "2024-10-27T13:30:09.146144",
+                "completed": "2024-10-28T11:51:34.298755",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "pay the confusing post.nl thing",
+                "created": "2024-10-27T13:30:24.011537",
+                "completed": "2024-12-02T13:20:39.301893",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "more flowers ",
+                "created": "2024-10-28T12:44:52.952052",
+                "completed": "2024-12-02T12:50:20.770483",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "projection softare test",
+                "created": "2024-10-28T13:51:12.597146",
+                "completed": "2024-12-02T13:20:34.283374",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "silver ",
+                "created": "2024-11-01T11:52:34.444368",
+                "completed": "2024-11-05T18:17:38.517321",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "put gov appointment on schedule",
+                "created": "2024-11-01T11:52:48.285782",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make killa plan for boat people",
+                "created": "2024-11-05T18:17:29.388337",
+                "completed": "2024-11-19T17:02:19.823453",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make idl subcategory",
+                "created": "2024-11-05T18:18:11.170067",
+                "completed": null,
+                "benched": "2024-12-02T14:10:42.946518",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "deploy idl  version on vm",
+                "created": "2024-11-05T18:19:01.086659",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "quit",
+                "created": "2024-11-05T18:27:25.710443",
+                "completed": "2024-11-07T17:58:03.301349",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "quit",
+                "created": "2024-11-05T18:27:27.753872",
+                "completed": "2024-11-07T17:58:07.348486",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send ross letter",
+                "created": "2024-11-05T19:07:56.788917",
+                "completed": "2024-11-07T17:58:04.513511",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "handle payments",
+                "created": "2024-11-07T18:00:07.141899",
+                "completed": "2024-11-15T05:56:22.305319",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get release version of infinitewaves",
+                "created": "2024-11-11T15:56:43.019294",
+                "completed": null,
+                "benched": "2024-12-02T13:31:54.876215",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "nap ",
+                "created": "2024-11-11T15:56:44.969390",
+                "completed": "2024-11-15T05:56:14.403657",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "resync automatic timezone",
+                "created": "2024-11-11T15:57:01.273655",
+                "completed": "2024-12-02T12:50:34.629046",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finish earthone",
+                "created": "2024-11-12T15:15:46.135670",
+                "completed": "2024-11-19T17:01:59.801730",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "circle back around conscious AI",
+                "created": "2024-11-19T17:02:06.145499",
+                "completed": null,
+                "benched": "2024-12-02T13:32:01.119335",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "try to solve drivers license",
+                "created": "2024-11-19T17:02:25.329965",
+                "completed": null,
+                "benched": "2024-12-02T13:31:59.109607",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "investigate hiring other CSS guy",
+                "created": "2024-11-19T17:02:33.310062",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "sort out all todos again",
+                "created": "2024-11-24T13:28:01.631925",
+                "completed": "2024-12-02T13:31:29.257540",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make some game tracking software or system for the status of each game",
+                "created": "2024-11-24T18:13:10.029970",
+                "completed": null,
+                "benched": "2024-12-02T14:36:52.498140",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find way to bleach couch",
+                "created": "2024-12-02T12:54:53.323617",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "research for stargate",
+                "created": "2024-12-02T12:56:49.398041",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "hous plants",
+                "created": "2024-12-02T12:57:59.257867",
+                "completed": null,
+                "benched": "2024-12-02T13:32:08.254202",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send jamie poems",
+                "created": "2024-12-02T13:14:44.313928",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test sbr deliverables",
+                "created": "2024-12-02T13:44:04.854898",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "car wars notes",
+                "created": "2024-12-02T13:44:57.276559",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review headmaze",
+                "created": "2024-12-02T13:46:42.255149",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "follow up with eclipse peeps",
+                "created": "2024-12-02T14:09:21.311557",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make in person ING apt",
+                "created": "2024-12-02T14:10:29.605622",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "follow up with local VCs",
+                "created": "2024-12-02T14:40:09.645928",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -5300,7 +6310,7 @@
             {
                 "task": "make list of bizarre unsolved bugs (negative score, etc)",
                 "created": "2024-09-14T10:15:33.926173",
-                "completed": null,
+                "completed": "2024-09-16T22:10:55.439138",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5360,7 +6370,7 @@
             {
                 "task": "end screen display issue on small height",
                 "created": "2024-09-14T11:06:30.593773",
-                "completed": null,
+                "completed": "2024-09-16T22:10:49.837223",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5370,7 +6380,7 @@
             {
                 "task": "consdier ad embed",
                 "created": "2024-09-14T12:48:45.844334",
-                "completed": null,
+                "completed": "2024-09-16T22:41:24.456698",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5380,7 +6390,7 @@
             {
                 "task": "green bar no obvious",
                 "created": "2024-09-14T13:05:21.599776",
-                "completed": null,
+                "completed": "2024-09-16T22:41:22.408103",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5390,7 +6400,7 @@
             {
                 "task": "Change the flamethrower SFX.",
                 "created": "2024-09-15T12:41:27.422111",
-                "completed": null,
+                "completed": "2024-09-19T00:07:28.151833",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5441,7 +6451,7 @@
                 "task": "Add a progression bar to all the achievements.",
                 "created": "2024-09-15T12:42:15.180281",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-09-18T13:15:23.864760",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5450,7 +6460,7 @@
             {
                 "task": "Achievement pages in the \u201cMy Achievements\u201d UI seem to disappear.",
                 "created": "2024-09-15T12:42:31.340382",
-                "completed": null,
+                "completed": "2024-09-16T22:10:45.540181",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5461,7 +6471,7 @@
                 "task": "The volume settings do not persist through page refresh.",
                 "created": "2024-09-15T12:42:36.762444",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-10-25T14:42:14.501919",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5480,7 +6490,7 @@
             {
                 "task": "You stop earning EXP from destroying asteroids and collecting EXP drops.",
                 "created": "2024-09-15T12:42:57.741418",
-                "completed": null,
+                "completed": "2024-09-18T13:15:28.132633",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5490,7 +6500,7 @@
             {
                 "task": "The \u201cActivate [Enter]\u201d gift UI gets disabled upon movement.",
                 "created": "2024-09-15T12:43:02.236596",
-                "completed": null,
+                "completed": "2024-09-18T21:07:13.812985",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5572,7 +6582,7 @@
             {
                 "task": "leaderboard doesn't immediately include new score",
                 "created": "2024-09-15T13:09:38.268491",
-                "completed": null,
+                "completed": "2024-09-16T22:41:05.234666",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5615,7 +6625,7 @@
                 "task": "follow up with wim hof",
                 "created": "2024-09-15T13:51:01.548408",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-09-16T22:11:30.702405",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5624,7 +6634,7 @@
             {
                 "task": "consider stable laser leveling for bosses",
                 "created": "2024-09-15T14:23:19.010621",
-                "completed": null,
+                "completed": "2024-09-16T22:10:26.030728",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5654,7 +6664,7 @@
             {
                 "task": "crazy games does not detech user auth ",
                 "created": "2024-09-15T15:06:00.242528",
-                "completed": null,
+                "completed": "2024-09-16T22:11:26.315734",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5685,7 +6695,7 @@
                 "task": "create user settings management ",
                 "created": "2024-09-15T15:32:56.432404",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-10-25T14:42:18.986532",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5714,7 +6724,7 @@
             {
                 "task": "test all crazygames flows",
                 "created": "2024-09-15T15:43:49.222371",
-                "completed": null,
+                "completed": "2024-09-16T20:30:58.458443",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5734,7 +6744,7 @@
             {
                 "task": "add time to glow ",
                 "created": "2024-09-15T18:21:16.796393",
-                "completed": null,
+                "completed": "2024-09-16T22:10:28.750737",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5754,7 +6764,7 @@
             {
                 "task": "figure out which achievement pages are disaappering",
                 "created": "2024-09-15T19:03:04.160066",
-                "completed": null,
+                "completed": "2024-09-16T22:10:36.680354",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5775,7 +6785,7 @@
                 "task": "Make the \u201cExtra Upgrade Choice\u201d benefit permanent",
                 "created": "2024-09-15T23:32:18.643906",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-10-25T14:42:23.168994",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5784,7 +6794,7 @@
             {
                 "task": "Make the \u201cMega Upgrades\u201d a bit easier and clearer to understand.",
                 "created": "2024-09-15T23:32:46.325032",
-                "completed": null,
+                "completed": "2024-10-25T14:42:25.350548",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5795,7 +6805,7 @@
                 "task": "Give a short description for each of the ships, highlighting their upgrades and benefits.",
                 "created": "2024-09-15T23:32:52.709191",
                 "completed": null,
-                "benched": null,
+                "benched": "2024-10-25T14:42:12.071124",
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
@@ -5814,7 +6824,7 @@
             {
                 "task": "mobile buttons still visible on main menu",
                 "created": "2024-09-16T00:29:20.915687",
-                "completed": null,
+                "completed": "2024-09-18T12:33:30.666886",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5824,7 +6834,7 @@
             {
                 "task": "slightly decrease acceleration for mobile verson",
                 "created": "2024-09-16T00:29:29.525669",
-                "completed": null,
+                "completed": "2024-09-18T12:33:29.026983",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5834,7 +6844,7 @@
             {
                 "task": "fix mobie fps",
                 "created": "2024-09-16T00:33:02.350381",
-                "completed": null,
+                "completed": "2024-09-16T20:32:55.429812",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5844,7 +6854,7 @@
             {
                 "task": "mobile fps",
                 "created": "2024-09-16T00:33:21.515469",
-                "completed": null,
+                "completed": "2024-09-16T22:10:10.856847",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5874,7 +6884,7 @@
             {
                 "task": "add crazygames to firestore",
                 "created": "2024-09-16T12:31:07.483934",
-                "completed": null,
+                "completed": "2024-09-16T20:32:34.177614",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5884,7 +6894,7 @@
             {
                 "task": "figure out how to bring back down arrow",
                 "created": "2024-09-16T12:45:01.287125",
-                "completed": null,
+                "completed": "2024-09-16T22:10:07.224551",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5894,7 +6904,7 @@
             {
                 "task": "logout message collision",
                 "created": "2024-09-16T13:14:17.556769",
-                "completed": null,
+                "completed": "2024-09-16T22:10:03.670526",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5904,7 +6914,7 @@
             {
                 "task": "HIGH - damage report bug",
                 "created": "2024-09-16T13:47:25.112519",
-                "completed": null,
+                "completed": "2024-09-18T12:33:23.878582",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5914,7 +6924,7 @@
             {
                 "task": "HIGH - end screen scroll",
                 "created": "2024-09-16T13:47:37.829400",
-                "completed": null,
+                "completed": "2024-09-16T22:09:55.260420",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5924,7 +6934,7 @@
             {
                 "task": "HIGH - spin bug",
                 "created": "2024-09-16T13:48:27.472135",
-                "completed": null,
+                "completed": "2024-09-16T22:09:59.071516",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5934,7 +6944,7 @@
             {
                 "task": "HIGH - auth test crazy games",
                 "created": "2024-09-16T13:49:01.158411",
-                "completed": null,
+                "completed": "2024-09-16T20:30:38.569551",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5944,7 +6954,7 @@
             {
                 "task": "HIGH - user id persist crazygames",
                 "created": "2024-09-16T13:49:10.408760",
-                "completed": null,
+                "completed": "2024-09-16T20:30:35.982578",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5954,7 +6964,7 @@
             {
                 "task": "clearer activate",
                 "created": "2024-09-16T15:05:58.318375",
-                "completed": null,
+                "completed": "2024-09-16T22:11:17.760835",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5964,7 +6974,7 @@
             {
                 "task": "\u2022The main page looks different after you play your first game, which is kinda unusual",
                 "created": "2024-09-16T15:06:12.543021",
-                "completed": null,
+                "completed": "2024-10-07T15:14:15.769912",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5974,7 +6984,7 @@
             {
                 "task": "why the scroll on my mouse is not working on the scroll bar",
                 "created": "2024-09-16T15:06:39.561681",
-                "completed": null,
+                "completed": "2024-09-17T11:09:38.928480",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5984,7 +6994,7 @@
             {
                 "task": "double logout even when not logged in",
                 "created": "2024-09-16T15:06:53.803162",
-                "completed": null,
+                "completed": "2024-09-16T22:11:06.052083",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -5994,7 +7004,7 @@
             {
                 "task": "There\u2019s a delay or sometimes it\u2019s not working when clicking the leaderboards",
                 "created": "2024-09-16T15:11:12.169157",
-                "completed": null,
+                "completed": "2024-09-16T22:11:07.875551",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6004,7 +7014,7 @@
             {
                 "task": "\u2022The raffle part when in-game, maybe there\u2019s a better UI for that to be eye pleasing",
                 "created": "2024-09-16T15:11:29.255304",
-                "completed": null,
+                "completed": "2024-09-30T13:22:14.438672",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6014,7 +7024,7 @@
             {
                 "task": "force pause for spinner",
                 "created": "2024-09-16T15:16:33.670510",
-                "completed": null,
+                "completed": "2024-09-16T20:47:47.772813",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6024,7 +7034,7 @@
             {
                 "task": "remove extra fields from achievmetns save",
                 "created": "2024-09-16T19:47:07.626688",
-                "completed": null,
+                "completed": "2024-09-18T13:15:13.888964",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6034,6 +7044,836 @@
             {
                 "task": "add automatic retry with leaderbaord",
                 "created": "2024-09-16T20:24:56.507505",
+                "completed": "2024-09-16T20:47:41.711801",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test crazy games game play starts",
+                "created": "2024-09-16T20:32:31.775520",
+                "completed": "2024-09-16T22:10:58.087995",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test happytime",
+                "created": "2024-09-16T22:30:49.464211",
+                "completed": "2024-09-18T12:33:18.854900",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "delay gem frequncy",
+                "created": "2024-09-17T09:57:13.091832",
+                "completed": "2024-09-17T10:12:19.860175",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "selecting upgrade after leveling up - firefox search fireld appears",
+                "created": "2024-09-17T10:12:14.470941",
+                "completed": "2024-09-17T11:09:32.505934",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "level progress bar is still bugged,",
+                "created": "2024-09-17T10:38:40.767774",
+                "completed": "2024-09-17T11:17:17.851935",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "HIGH level progress",
+                "created": "2024-09-17T11:09:24.648700",
+                "completed": "2024-09-18T11:17:20.539114",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "asteroid splitter bug",
+                "created": "2024-09-17T11:13:25.173065",
+                "completed": "2024-09-17T11:17:12.000885",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix no upgrades popup",
+                "created": "2024-09-17T16:44:23.127496",
+                "completed": "2024-09-17T16:44:25.084723",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "down module not working",
+                "created": "2024-09-18T12:33:16.325180",
+                "completed": "2024-09-18T13:15:10.909807",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "freeze icon disappears after endless mode",
+                "created": "2024-09-18T14:22:36.223475",
+                "completed": "2024-09-18T14:27:31.148487",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "no analytics",
+                "created": "2024-09-18T21:06:57.549555",
+                "completed": "2024-09-18T21:07:24.711521",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "no text for spinner to activate",
+                "created": "2024-09-19T10:49:22.158135",
+                "completed": "2024-09-19T12:24:22.746876",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "first pause broken",
+                "created": "2024-09-19T10:49:29.334303",
+                "completed": "2024-09-19T11:47:31.405779",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "empty reclaim screen popping up",
+                "created": "2024-09-19T11:47:51.944883",
+                "completed": "2024-09-19T11:54:03.054965",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix rocket radius collison",
+                "created": "2024-09-19T11:49:59.155511",
+                "completed": "2024-09-19T11:50:01.788816",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ship selection not saving",
+                "created": "2024-09-19T11:51:18.894929",
+                "completed": "2024-10-25T14:42:27.368230",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "endscreen doesnt use damage report",
+                "created": "2024-09-19T11:52:26.609849",
+                "completed": "2024-09-19T11:53:59.304598",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "show all weapons in damage report",
+                "created": "2024-09-19T11:53:50.347549",
+                "completed": "2024-09-19T11:53:58.309191",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "format damage in whole numbers",
+                "created": "2024-09-19T11:56:25.492121",
+                "completed": "2024-09-19T12:28:08.462093",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "shrinking achievements",
+                "created": "2024-09-19T12:08:28.034979",
+                "completed": "2024-09-21T10:57:01.762650",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "damage report",
+                "created": "2024-09-19T12:08:46.205581",
+                "completed": "2024-09-19T12:28:03.106936",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "properly reset octoboss",
+                "created": "2024-09-19T15:17:12.233858",
+                "completed": "2024-09-19T16:29:02.978276",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get arms back",
+                "created": "2024-09-19T15:17:14.258677",
+                "completed": "2024-09-19T16:29:00.989678",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "space invaders style movements ",
+                "created": "2024-09-20T10:12:44.350838",
+                "completed": null,
+                "benched": "2024-10-25T14:42:08.846639",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "storyline ",
+                "created": "2024-09-20T10:12:46.193046",
+                "completed": null,
+                "benched": "2024-09-30T13:22:08.012919",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "dark side upgrade ",
+                "created": "2024-09-20T12:15:31.231259",
+                "completed": "2024-09-21T10:56:56.622957",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "modal tweaks from cg",
+                "created": "2024-09-27T19:26:47.841967",
+                "completed": "2024-09-30T13:21:40.436323",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "affixes",
+                "created": "2024-09-27T19:26:52.603048",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fast leaderboard",
+                "created": "2024-09-27T19:27:03.944103",
+                "completed": "2024-10-02T17:33:14.456413",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "endscreen tiling",
+                "created": "2024-09-27T19:27:16.405172",
+                "completed": "2024-10-04T01:15:04.970371",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make tutorial",
+                "created": "2024-09-30T12:13:00.929834",
+                "completed": "2024-09-30T13:21:33.743267",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test modal tweaks",
+                "created": "2024-09-30T13:21:45.729699",
+                "completed": "2024-10-04T01:15:01.315489",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add explanation for secondary bar",
+                "created": "2024-09-30T13:21:52.060713",
+                "completed": "2024-10-04T01:14:59.189409",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get asteroid alignment working properly ",
+                "created": "2024-09-30T13:21:57.679264",
+                "completed": "2024-10-04T01:14:57.647768",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix timing error for level up",
+                "created": "2024-10-01T11:56:39.913840",
+                "completed": "2024-10-04T02:02:21.644551",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "remove logout for crazygames",
+                "created": "2024-10-01T12:06:21.649768",
+                "completed": "2024-10-04T01:14:54.766129",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add space coffin",
+                "created": "2024-10-02T16:45:57.103492",
+                "completed": null,
+                "benched": "2024-10-25T14:42:33.654913",
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile optimization",
+                "created": "2024-10-02T16:52:08.410887",
+                "completed": "2024-10-02T17:33:01.317767",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "constrain ship picker",
+                "created": "2024-10-02T22:56:39.063059",
+                "completed": "2024-10-04T02:02:17.407268",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "set some parameters specifically for crazygames mode",
+                "created": "2024-10-04T13:17:32.148818",
+                "completed": "2024-10-25T14:42:36.032937",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "remove extra tutorial asteroid",
+                "created": "2024-10-04T13:51:01.085164",
+                "completed": "2024-10-04T14:31:39.539883",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "change mega upgrade format",
+                "created": "2024-10-04T14:31:50.136801",
+                "completed": "2024-10-04T14:34:41.987323",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix levelup after death",
+                "created": "2024-10-04T17:18:47.186284",
+                "completed": "2024-10-25T14:42:41.055143",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "remove opacity with tutorial",
+                "created": "2024-10-04T17:19:17.704761",
+                "completed": "2024-10-25T14:41:54.801659",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "ship",
+                "created": "2024-10-04T17:19:29.939567",
+                "completed": "2024-10-04T17:19:31.485319",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "purple pixie deploy",
+                "created": "2024-10-04T17:20:33.460186",
+                "completed": "2024-10-07T12:18:49.631632",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "sonic blast bug probably ast coords",
+                "created": "2024-10-04T17:20:40.718227",
+                "completed": "2024-10-25T14:42:37.585934",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "acid area bug probably asteroid coord",
+                "created": "2024-10-04T17:20:50.630801",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review TODOs in code",
+                "created": "2024-10-04T17:20:57.490240",
+                "completed": "2024-10-25T14:41:47.715877",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "list new things from cg",
+                "created": "2024-10-07T11:53:57.567287",
+                "completed": "2024-10-25T14:41:44.764675",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "list out possibe safari fixes",
+                "created": "2024-10-07T12:29:20.970707",
+                "completed": "2024-10-25T14:41:42.619226",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write up path to 2.0",
+                "created": "2024-10-07T15:14:03.695460",
+                "completed": "2024-10-25T14:41:39.557006",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add colored asteroids to tutorial ",
+                "created": "2024-10-09T12:04:37.351389",
+                "completed": "2024-10-25T14:41:34.647647",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add aliens to tutorial",
+                "created": "2024-10-09T12:04:41.708894",
+                "completed": "2024-10-25T14:41:36.762118",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add powerups pickups to the tutorial",
+                "created": "2024-10-09T12:04:47.879846",
+                "completed": "2024-10-25T14:42:45.122606",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "game over screen; the Play Again and Main Menu buttons must be immediately shown without scrolling down",
+                "created": "2024-10-09T12:09:07.191311",
+                "completed": "2024-10-25T14:41:32.176049",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "during gameplay; overlapped with the text (weapon icons)",
+                "created": "2024-10-09T12:09:20.458195",
+                "completed": "2024-10-25T14:42:55.649530",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "game controls on mobile are visible in the main menu",
+                "created": "2024-10-09T12:09:55.950284",
+                "completed": "2024-10-25T14:41:28.828133",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile - game over screen; the Play Again and Main Menu buttons must be immediately shown without scrolling down",
+                "created": "2024-10-09T12:10:05.050696",
+                "completed": "2024-10-25T14:42:52.677631",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile - achievements; close button and title not visible)",
+                "created": "2024-10-09T12:10:10.238833",
+                "completed": "2024-10-25T14:42:57.224251",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile - level up; the text got cut off",
+                "created": "2024-10-09T12:19:58.542452",
+                "completed": "2024-10-25T14:41:09.271775",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile - settings, the close button is cut off",
+                "created": "2024-10-09T12:20:07.037085",
+                "completed": "2024-10-25T14:41:11.729808",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile - leaderboard; close button and title not visible",
+                "created": "2024-10-09T12:20:12.739635",
+                "completed": "2024-10-25T14:41:15.077846",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "mobile - main menu; still can be dragged/scrollable",
+                "created": "2024-10-09T12:20:20.388975",
+                "completed": "2024-10-25T14:41:21.567132",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "CG - opitmize firestore",
+                "created": "2024-10-09T12:37:18.308518",
+                "completed": "2024-10-25T14:41:16.766980",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "CG - leaderboard mouse scroll",
+                "created": "2024-10-09T12:37:27.595077",
+                "completed": "2024-10-25T14:41:19.813935",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "latest CG issue batch ",
+                "created": "2024-10-09T13:04:56.880550",
+                "completed": "2024-10-25T14:42:58.810304",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 1388279.410124
+            },
+            {
+                "task": "add midgame ad",
+                "created": "2024-10-09T13:42:03.733282",
+                "completed": "2024-10-25T14:41:23.216216",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "unshow tutorial on death",
+                "created": "2024-10-09T14:57:25.158344",
+                "completed": "2024-10-25T14:41:25.904894",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reduce xp scaling",
+                "created": "2024-10-11T16:09:04.823792",
+                "completed": "2024-10-25T14:41:06.254076",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "see if percetnage is reason for leadeboard issue",
+                "created": "2024-10-11T16:09:20.267775",
+                "completed": "2024-10-25T14:43:00.506839",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review user testing report",
+                "created": "2024-10-25T14:41:00.390471",
+                "completed": "2024-11-05T18:28:09.516055",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "fix levelup on gameover bug",
+                "created": "2024-10-25T14:47:31.149483",
+                "completed": "2024-11-05T18:28:08.539244",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "retest ios",
+                "created": "2024-10-28T12:07:49.176892",
+                "completed": "2024-10-31T16:23:58.393319",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "rehire dude",
+                "created": "2024-10-28T14:16:47.241751",
+                "completed": "2024-10-31T16:23:56.042579",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "turn offm usic",
+                "created": "2024-10-28T14:16:49.038701",
+                "completed": "2024-10-31T16:23:53.792143",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "prioritize bugs",
+                "created": "2024-10-28T14:16:54.845246",
+                "completed": "2024-10-31T16:23:47.551192",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "check login",
+                "created": "2024-10-31T16:23:45.580421",
+                "completed": "2024-11-05T18:28:06.833055",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review lag results",
+                "created": "2024-10-31T16:23:50.842881",
+                "completed": "2024-11-05T18:28:03.728714",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "implement latest list of fixes from cg",
+                "created": "2024-11-08T13:38:28.994519",
+                "completed": "2024-11-08T13:38:30.769765",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test latest fixes for cg",
+                "created": "2024-11-08T13:38:33.698811",
+                "completed": "2024-12-02T13:32:33.152298",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "rewrite cg bug list",
+                "created": "2024-12-02T13:32:39.909737",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "play to convert to steam game",
+                "created": "2024-12-02T14:42:35.477162",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -6208,6 +8048,138 @@
             {
                 "task": "fix inifnite pay login bug",
                 "created": "2024-07-10T09:40:10.064120",
+                "completed": "2024-09-27T10:52:00.979254",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "design coin mechanism",
+                "created": "2024-07-07T16:39:03.075473",
+                "completed": "2024-09-30T11:45:37.191371",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "review previous code base with d",
+                "created": "2024-09-23T09:53:44.492672",
+                "completed": "2024-09-27T10:52:07.120015",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "make list of edugame ideas",
+                "created": "2024-09-23T12:10:15.510980",
+                "completed": "2024-09-30T11:45:35.152213",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "make list of possible game enhancements",
+                "created": "2024-09-23T12:10:24.295971",
+                "completed": "2024-09-27T10:52:16.376560",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "build UE locally with client options",
+                "created": "2024-09-23T12:10:37.085255",
+                "completed": "2024-09-27T10:51:21.658134",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "review appleseed assets",
+                "created": "2024-09-23T12:10:47.296663",
+                "completed": "2024-09-30T11:33:58.772333",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "xp system",
+                "created": "2024-09-23T14:04:15.509005",
+                "completed": "2024-09-30T11:33:30.017200",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "evaluate idea: outerwild style exploration",
+                "created": "2024-09-24T08:47:48.086904",
+                "completed": "2024-09-30T11:45:28.012422",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "evaluate idea: verse generated weapons",
+                "created": "2024-09-24T08:48:01.288386",
+                "completed": "2024-09-30T11:45:26.024061",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "evaluate idea hades inspired respawn counters",
+                "created": "2024-09-24T08:48:18.082680",
+                "completed": "2024-09-30T11:33:15.160978",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "evaluate idea metamud",
+                "created": "2024-09-24T08:48:40.341909",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -6216,14 +8188,606 @@
                 "time_spent": 0
             },
             {
-                "task": "design coin mechanism",
-                "created": "2024-07-07T16:39:03.075473",
+                "task": "evaluate digital mtg dec builders",
+                "created": "2024-09-24T08:54:33.679356",
+                "completed": "2024-09-27T10:53:34.315065",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "evaluate unreal vjing or other music algos",
+                "created": "2024-09-24T08:58:40.184439",
+                "completed": "2024-09-30T11:33:12.078112",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "test schim",
+                "created": "2024-09-26T11:59:26.715121",
+                "completed": "2024-09-27T10:53:14.557019",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "try out verse in UE editor for forenight",
+                "created": "2024-09-26T11:59:39.574427",
+                "completed": "2024-09-30T11:33:01.934890",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "onboard Diana",
+                "created": "2024-09-26T11:59:46.480815",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
                 "start_time": null,
                 "time_spent": 0
+            },
+            {
+                "task": "sort out WD writings",
+                "created": "2024-09-26T14:09:19.343468",
+                "completed": "2024-09-30T11:32:46.513724",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "sort out ML writings",
+                "created": "2024-09-26T14:09:24.124121",
+                "completed": "2024-09-27T10:52:44.316563",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "game jam",
+                "created": "2024-09-26T14:09:27.475064",
+                "completed": "2024-09-27T10:51:37.177170",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "assess fractal possiblities",
+                "created": "2024-09-26T14:09:37.121169",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test bytepath",
+                "created": "2024-09-27T10:52:56.612915",
+                "completed": "2024-09-30T11:33:44.533678",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "SBR-show XP progression and available powerUps on screen",
+                "created": "2024-09-27T10:58:56.888007",
+                "completed": "2024-09-27T11:57:05.677970",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "368082979949641728",
+                "completed_by_name": ".yerchdmytro"
+            },
+            {
+                "task": "finish implementing plasma weapon",
+                "created": "2024-09-27T11:30:06.986661",
+                "completed": "2024-09-30T11:45:19.345846",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "rename old bots",
+                "created": "2024-09-27T12:00:52.562670",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "wave system",
+                "created": "2024-09-27T13:54:19.391019",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "afterRoundScreen",
+                "created": "2024-09-27T13:54:38.738249",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test lots of bots performance",
+                "created": "2024-09-27T14:02:33.505994",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "appleseed stylesheets",
+                "created": "2024-09-27T14:26:14.687658",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "SBR wave system",
+                "created": "2024-09-28T17:44:09.893974",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test more roblox games",
+                "created": "2024-09-29T11:20:06.367269",
+                "completed": "2024-09-30T11:45:02.964856",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "purchase system to roblox parkour game",
+                "created": "2024-09-29T11:20:30.248624",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get ropes working properly in rpg",
+                "created": "2024-09-29T11:20:39.642253",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "properly name, brand, and relase rpg",
+                "created": "2024-09-29T11:20:51.625252",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "experiment battle royale mode in roblox game",
+                "created": "2024-09-29T11:21:08.701126",
+                "completed": "2024-09-30T11:30:04.346355",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "995479263354564649",
+                "completed_by_name": "multiversaljoel"
+            },
+            {
+                "task": "write up notes on Unreal Engine verse",
+                "created": "2024-09-29T11:21:18.844003",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "look for more verse experts who have built immersive landscapes",
+                "created": "2024-09-29T11:21:29.682188",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test frozen-verse games",
+                "created": "2024-09-29T13:12:36.147878",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "hire roblox playtestsrs",
+                "created": "2024-09-29T13:24:12.690920",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make next steps for infinite parkour",
+                "created": "2024-09-30T11:28:32.138219",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "set deadlines for all internal projects",
+                "created": "2024-09-30T11:29:21.304472",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "add missing files to the printing order",
+                "created": "2024-10-01T11:01:29.131358",
+                "completed": "2024-10-05T15:10:17.253613",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "order printing with delivery",
+                "created": "2024-10-01T11:02:07.895424",
+                "completed": "2024-10-05T17:55:14.780752",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "pay Vattenfall bill",
+                "created": "2024-10-01T11:02:27.933105",
+                "completed": "2024-10-05T15:10:26.594008",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "pay Blossom Hill",
+                "created": "2024-10-01T11:02:41.199156",
+                "completed": "2024-10-08T17:20:58.541084",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "check out how to change photo layout on the main page (Shopify)",
+                "created": "2024-10-01T11:03:22.716239",
+                "completed": "2024-10-05T15:21:31.823732",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "reply to Tarot Museum about a collaboration opportunity",
+                "created": "2024-10-01T11:03:49.730162",
+                "completed": "2024-10-05T17:55:25.494068",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "fill necessary forms for the Paylar",
+                "created": "2024-10-01T11:04:15.558708",
+                "completed": "2024-10-05T17:23:39.185043",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "a UK passport to start the application",
+                "created": "2024-10-01T12:00:06.806407",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "button to go into challenge game mode",
+                "created": "2024-10-02T21:41:08.040005",
+                "completed": "2024-10-05T17:53:49.366799",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "make sure that more than 2 waves work",
+                "created": "2024-10-02T21:41:22.767450",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make sure orbs do damage",
+                "created": "2024-10-02T21:43:56.714372",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make list of 10 bots (max)",
+                "created": "2024-10-02T21:44:06.803373",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "move this bot to PC so it runs all the time",
+                "created": "2024-10-03T13:13:43.000264",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "send the deck to Pierre",
+                "created": "2024-10-05T15:07:38.432677",
+                "completed": "2024-10-17T12:54:37.931057",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "send the deck to the museum",
+                "created": "2024-10-05T15:07:42.320638",
+                "completed": "2024-10-08T17:21:14.770235",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "share documents with Natalie",
+                "created": "2024-10-05T15:07:50.844723",
+                "completed": "2024-10-08T17:23:28.933359",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "share materials with a marketing person",
+                "created": "2024-10-05T15:09:12.688038",
+                "completed": "2024-10-17T12:54:29.141801",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "top up NSS account",
+                "created": "2024-10-05T15:22:20.297623",
+                "completed": "2024-10-08T17:47:11.162126",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "rename to Sven Ra on website",
+                "created": "2024-10-08T17:19:12.949626",
+                "completed": "2024-10-08T17:23:44.067373",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "send Natalie docs",
+                "created": "2024-10-08T17:19:19.002129",
+                "completed": "2024-10-08T17:21:24.747562",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "reply to Paylar",
+                "created": "2024-10-08T17:22:34.485410",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "research for Dutch accounts",
+                "created": "2024-10-08T17:30:45.400396",
+                "completed": "2024-10-17T12:54:06.450095",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "pay for the domain",
+                "created": "2024-10-08T17:58:48.641531",
+                "completed": "2024-10-17T12:53:18.199607",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "send the list of the artists",
+                "created": "2024-10-17T12:52:44.551509",
+                "completed": "2024-10-17T12:53:53.670153",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
+            },
+            {
+                "task": "update the website to Sven Ra",
+                "created": "2024-10-17T13:00:01.611209",
+                "completed": "2024-10-17T13:00:14.893224",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0,
+                "completed_by_id": "694182784532480110",
+                "completed_by_name": ".idi12"
             }
         ],
         "stolenai": [
@@ -6312,7 +8876,7 @@
             {
                 "task": "i creates socials ",
                 "created": "2024-07-26T19:08:07.612590",
-                "completed": null,
+                "completed": "2024-12-02T13:14:37.069715",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6406,7 +8970,7 @@
             {
                 "task": "mahler 2",
                 "created": "2024-07-29T17:29:36.469633",
-                "completed": null,
+                "completed": "2024-10-07T11:20:30.674554",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6548,7 +9112,7 @@
             {
                 "task": "send to ulf for feedback",
                 "created": "2024-07-31T18:49:05.521704",
-                "completed": null,
+                "completed": "2024-10-07T12:36:53.075256",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6558,6 +9122,16 @@
             {
                 "task": "jj gets compute",
                 "created": "2024-07-31T18:49:12.925814",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "go through remaining issues",
+                "created": "2024-10-07T12:37:02.179703",
                 "completed": null,
                 "benched": null,
                 "unbenched": null,
@@ -6660,7 +9234,7 @@
             {
                 "task": "restaurant",
                 "created": "2024-09-03T09:25:16.460101",
-                "completed": null,
+                "completed": "2024-09-23T09:31:08.603801",
                 "benched": null,
                 "unbenched": null,
                 "in_progress": false,
@@ -6696,7 +9270,704 @@
                 "in_progress": false,
                 "start_time": null,
                 "time_spent": 0
+            },
+            {
+                "task": "Machinery of Freedom",
+                "created": "2024-09-21T12:02:37.335722",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Magic Mountain",
+                "created": "2024-09-23T09:31:00.689345",
+                "completed": "2024-12-02T13:11:26.353914",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "Mostly Harmless",
+                "created": "2024-09-23T09:31:26.115632",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "So Long, and Thanks for All the Fish",
+                "created": "2024-09-23T09:31:57.615581",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "buy menu every 10 waves ",
+                "created": "2024-10-07T15:00:36.391001",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "reduce xp update frequency",
+                "created": "2024-10-07T15:00:53.724651",
+                "completed": "2024-12-02T13:11:28.218302",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find more OGs of gaming",
+                "created": "2024-10-07T15:00:59.928642",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "allow you to delete things from idea list",
+                "created": "2024-10-07T15:13:00.152556",
+                "completed": "2024-12-02T13:11:29.980386",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
             }
-        ]
-    }
+        ],
+        "ip": [
+            {
+                "task": "get platforms to line up with course start",
+                "created": "2024-09-30T14:06:03.102431",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "stop multiple timer window bug",
+                "created": "2024-09-30T14:06:07.742487",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "test highscores",
+                "created": "2024-09-30T14:06:11.690865",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "onboard game testers",
+                "created": "2024-09-30T14:06:15.125260",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "revisit ropes",
+                "created": "2024-10-07T12:36:28.090265",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            }
+        ],
+        "igol": [
+            {
+                "task": "add sidebar to explain gol objects",
+                "created": "2024-10-08T11:27:33.776067",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "post on HN",
+                "created": "2024-10-08T11:27:36.173609",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "create leaderboard ",
+                "created": "2024-10-08T11:27:38.525486",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "use ipm to add other related assets",
+                "created": "2024-10-08T11:27:44.826788",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            }
+        ],
+        "golem": [
+            {
+                "task": "make deal with max for golem design",
+                "created": "2024-10-22T14:10:46.020678",
+                "completed": "2024-12-02T13:43:26.992029",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "setup laser etcher",
+                "created": "2024-10-22T14:10:52.550815",
+                "completed": "2024-12-02T13:43:25.853117",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": " box design",
+                "created": "2024-10-22T14:10:59.084526",
+                "completed": "2024-12-02T13:43:25.075106",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "hyperborean design",
+                "created": "2024-10-28T13:08:56.019474",
+                "completed": "2024-12-02T13:43:23.691860",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "chalice design",
+                "created": "2024-10-28T13:08:59.794391",
+                "completed": "2024-12-02T13:43:20.898996",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "rule book template",
+                "created": "2024-10-28T13:09:02.885114",
+                "completed": "2024-12-02T13:43:18.791815",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "write up dark alchemist version",
+                "created": "2024-10-28T13:15:51.840899",
+                "completed": "2024-12-02T13:43:16.315882",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize desing mercury",
+                "created": "2024-10-28T13:17:04.206422",
+                "completed": "2024-11-05T18:29:08.479928",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design zero",
+                "created": "2024-10-28T13:17:09.045142",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design golem",
+                "created": "2024-10-28T13:17:11.595265",
+                "completed": "2024-12-02T13:39:13.954568",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design iorn",
+                "created": "2024-10-28T13:17:13.924499",
+                "completed": "2024-12-02T14:26:28.940599",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design gold",
+                "created": "2024-10-28T13:17:17.132115",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design shield",
+                "created": "2024-10-28T13:17:20.248778",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize desing cryatl ball",
+                "created": "2024-10-28T13:17:26.463290",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design wings",
+                "created": "2024-10-28T13:17:29.001726",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design water",
+                "created": "2024-10-28T13:17:31.463432",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize desire fire",
+                "created": "2024-10-28T13:17:34.010692",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design air",
+                "created": "2024-10-28T13:17:37.842554",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design earth",
+                "created": "2024-10-28T13:17:40.436698",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design hyperborean",
+                "created": "2024-10-28T13:17:49.595589",
+                "completed": "2024-12-02T13:39:55.563577",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design exliir",
+                "created": "2024-10-28T13:17:52.330399",
+                "completed": "2024-12-02T13:39:53.258700",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design gdragon",
+                "created": "2024-10-28T13:17:54.721115",
+                "completed": "2024-12-02T13:39:42.315519",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finaalize desing chalice",
+                "created": "2024-10-28T13:17:57.567576",
+                "completed": "2024-12-02T13:39:40.167304",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize desing staff",
+                "created": "2024-10-28T13:18:03.822489",
+                "completed": "2024-12-02T13:39:51.356199",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design amulet",
+                "created": "2024-10-28T13:18:08.067822",
+                "completed": "2024-12-02T13:39:49.774338",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design book fo secrets",
+                "created": "2024-10-28T13:18:12.062295",
+                "completed": "2024-12-02T13:39:44.913966",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "finalize design fire sword ",
+                "created": "2024-10-28T13:18:51.566783",
+                "completed": "2024-12-02T13:39:47.758582",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "make laser etching plan",
+                "created": "2024-10-28T13:45:44.226234",
+                "completed": "2024-11-05T18:28:21.414222",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find board for board game",
+                "created": "2024-10-28T13:45:49.007218",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find better map for board",
+                "created": "2024-12-02T14:26:19.036300",
+                "completed": null,
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            }
+        ],
+        "high": [
+            {
+                "task": "reheat jac",
+                "created": "2024-11-25T13:22:58.121802",
+                "completed": "2024-11-25T20:56:54.215880",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "find dream ",
+                "created": "2024-11-25T13:23:04.355612",
+                "completed": "2024-11-25T20:57:14.646637",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "go through mail including max",
+                "created": "2024-11-25T13:23:10.368951",
+                "completed": "2024-11-25T20:56:51.580939",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "pay max",
+                "created": "2024-11-25T13:23:12.776763",
+                "completed": "2024-11-25T20:56:49.925877",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review derek quest",
+                "created": "2024-11-25T13:23:20.404947",
+                "completed": "2024-11-25T20:56:48.746555",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "read novalis",
+                "created": "2024-11-25T13:26:07.190355",
+                "completed": "2024-12-02T12:58:30.383658",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "150 burpees",
+                "created": "2024-11-25T13:26:10.883747",
+                "completed": "2024-12-02T12:58:32.189997",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review total components",
+                "created": "2024-11-25T13:31:35.529496",
+                "completed": "2024-12-02T12:58:36.915248",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "clean backpack",
+                "created": "2024-11-25T13:32:30.592239",
+                "completed": "2024-12-02T12:58:38.381012",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "clean suitcase",
+                "created": "2024-11-25T13:32:34.989759",
+                "completed": "2024-11-25T20:56:41.651130",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "check mail",
+                "created": "2024-11-25T13:32:39.465063",
+                "completed": "2024-11-25T20:57:17.451176",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "review diana proposals",
+                "created": "2024-11-25T13:32:58.126749",
+                "completed": "2024-12-02T12:58:33.939982",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get pyramid up",
+                "created": "2024-11-25T13:33:01.119843",
+                "completed": "2024-11-25T20:57:01.100118",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "get b flow",
+                "created": "2024-11-25T13:33:12.944147",
+                "completed": "2024-11-25T20:57:07.406073",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "order new tester games",
+                "created": "2024-11-25T13:34:56.012650",
+                "completed": "2024-11-25T20:56:35.172226",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "message yerch about computer",
+                "created": "2024-11-25T13:35:22.534402",
+                "completed": "2024-11-25T15:20:37.477045",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "calesthetnics",
+                "created": "2024-11-25T14:01:10.723964",
+                "completed": "2024-11-25T20:56:32.866481",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "schedule bheck in bwith bryan",
+                "created": "2024-11-25T14:01:14.254871",
+                "completed": "2024-11-25T20:56:30.338703",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "talk with Karl",
+                "created": "2024-11-25T14:02:33.983151",
+                "completed": "2024-11-25T20:56:27.811107",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "research paper inventory",
+                "created": "2024-11-25T14:16:53.863748",
+                "completed": "2024-12-02T12:58:40.894177",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            },
+            {
+                "task": "substance audit ",
+                "created": "2024-11-25T20:56:23.065017",
+                "completed": "2024-12-02T13:09:35.640750",
+                "benched": null,
+                "unbenched": null,
+                "in_progress": false,
+                "start_time": null,
+                "time_spent": 0
+            }
+        ],
+        "mathquest": []
+    },
+    "benched_categories": [
+        "agents",
+        "dtmd",
+        "stolenai",
+        "tc",
+        "igol",
+        "cnfb"
+    ]
 }
